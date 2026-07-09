@@ -10,14 +10,7 @@
       "twitterDescription": "Dune Part Three complete guide: release date, official trailer, full cast, story, IMAX details, and Dune Messiah connections for movie fans."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
