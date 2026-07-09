@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Dune Part Three - Release, Cast & Trailer",
+      "description": "Dune Part Three complete guide covers release date, official trailer updates, full cast, story, IMAX details, characters, and Dune Messiah connections for movie fans.",
+      "keywords": "Dune Part Three, Dune 3, release date, cast, trailer, IMAX, Dune Messiah",
+      "ogTitle": "Dune Part Three - Release, Cast & Trailer",
+      "ogDescription": "Dune Part Three complete guide covers release date, official trailer updates, full cast, story, IMAX details, characters, and Dune Messiah connections for movie fans.",
+      "twitterTitle": "Dune Part Three - Release, Cast & Trailer",
+      "twitterDescription": "Dune Part Three complete guide: release date, official trailer, full cast, story, IMAX details, and Dune Messiah connections for movie fans."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Epic Sci-Fi Movie Finale",
+    "title": "Dune Part 3 Wiki",
+    "description": "Explore Dune Part Three release date, official trailer, cast, story, IMAX details, characters, and Dune Messiah connections in one clear movie guide.",
+    "getFreeCodesCTA": "Watch Trailer",
+    "playOnSteamCTA": "Get Ticket Alerts",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Dec 18, 2026",
+        "label": "Theatrical Release"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "IMAX",
+        "label": "Premium Format"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "Dune Messiah",
+        "label": "Source Novel"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "41M+",
+        "label": "Teaser Views"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready for Dune Part Three?",
+    "description": "Follow Dune Part Three for the latest trailer drops, cast reveals, IMAX release news, and ticket alerts as Denis Villeneuve's saga concludes.",
+    "joinCommunity": "Follow on X",
+    "joinGame": "Get Ticket Alerts"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Dune Part 3 Wiki",
+    "description": "Your complete fan guide to Dune Part Three — release date, official trailer, full cast, story, IMAX details, characters, and Dune Messiah connections.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "Instagram",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Reddit",
+    "steamStore": "TikTok",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Dune Part 3 Wiki. Not affiliated with Warner Bros. Pictures or Legendary.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {

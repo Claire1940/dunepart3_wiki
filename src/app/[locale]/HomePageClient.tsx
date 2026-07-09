@@ -16,6 +16,7 @@ import {
   Home,
   MessageCircle,
   Package,
+  Play,
   Settings,
   Sparkles,
   Star,
@@ -85,7 +86,7 @@ export default function HomePageClient({
 }: HomePageClientProps) {
   const t = useMessages() as any;
   const siteUrl =
-    process.env.NEXT_PUBLIC_SITE_URL || "https://www.lucidblocks.wiki";
+    process.env.NEXT_PUBLIC_SITE_URL || "https://www.dunepart3.wiki";
 
   // Structured data
   const structuredData = {
@@ -95,15 +96,15 @@ export default function HomePageClient({
         "@type": "WebSite",
         "@id": `${siteUrl}/#website`,
         url: siteUrl,
-        name: "Lucid Blocks Wiki",
+        name: "Dune Part 3 Wiki",
         description:
-          "Complete Lucid Blocks Wiki covering crafting, biomes, creatures, items, achievements, lore, and survival tips for the surreal voxel sandbox on Steam.",
+          "Dune Part 3 Wiki is a complete fan guide to Dune: Part Three — release date, official trailer, full cast, story, IMAX details, characters, and Dune Messiah connections.",
         image: {
           "@type": "ImageObject",
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Lucid Blocks - Surreal Voxel Survival Sandbox",
+          caption: "Dune Part Three - Official Movie Guide",
         },
         potentialAction: {
           "@type": "SearchAction",
@@ -114,11 +115,11 @@ export default function HomePageClient({
       {
         "@type": "Organization",
         "@id": `${siteUrl}/#organization`,
-        name: "Lucid Blocks Wiki",
-        alternateName: "Lucid Blocks",
+        name: "Dune Part 3 Wiki",
+        alternateName: "Dune Part 3",
         url: siteUrl,
         description:
-          "Complete Lucid Blocks Wiki resource hub for crafting, biomes, creatures, items, achievements, and survival guides",
+          "Dune Part 3 Wiki — a fan resource hub for Dune: Part Three release, trailer, cast, story, IMAX, characters, and Dune Messiah coverage.",
         logo: {
           "@type": "ImageObject",
           url: `${siteUrl}/android-chrome-512x512.png`,
@@ -130,30 +131,44 @@ export default function HomePageClient({
           url: `${siteUrl}/images/hero.webp`,
           width: 1920,
           height: 1080,
-          caption: "Lucid Blocks Wiki - Surreal Voxel Survival Sandbox",
+          caption: "Dune Part 3 Wiki - Official Movie Guide",
         },
         sameAs: [
-          "https://store.steampowered.com/app/3495730/Lucid_Blocks/",
-          "https://discord.com/invite/lucidblocks",
-          "https://www.reddit.com/r/LucidBlocks/",
-          "https://www.youtube.com/@lucy_b_locks",
+          "https://www.dunemovie.com/",
+          "https://www.instagram.com/dunemovie/",
+          "https://x.com/dunemovie",
+          "https://www.tiktok.com/@dunemovie",
+          "https://www.facebook.com/dune/",
+          "https://www.reddit.com/r/dune/",
         ],
       },
       {
-        "@type": "VideoGame",
-        name: "Lucid Blocks",
-        gamePlatform: ["PC", "Steam"],
-        applicationCategory: "Game",
-        genre: ["Survival", "Sandbox", "Adventure", "Psychedelic"],
-        numberOfPlayers: {
-          minValue: 1,
-          maxValue: 1,
+        "@type": "Movie",
+        name: "Dune: Part Three",
+        url: siteUrl,
+        description:
+          "Dune: Part Three is the epic conclusion to Denis Villeneuve's Dune trilogy, based on Frank Herbert's Dune Messiah, in theaters and IMAX December 18, 2026.",
+        genre: ["Action", "Adventure", "Drama", "Sci-Fi"],
+        datePublished: "2026-12-18",
+        director: {
+          "@type": "Person",
+          name: "Denis Villeneuve",
         },
-        offers: {
-          "@type": "Offer",
-          priceCurrency: "USD",
-          availability: "https://schema.org/InStock",
-          url: "https://store.steampowered.com/app/3495730/Lucid_Blocks/",
+        actor: [
+          { "@type": "Person", name: "Timothée Chalamet" },
+          { "@type": "Person", name: "Zendaya" },
+          { "@type": "Person", name: "Jason Momoa" },
+          { "@type": "Person", name: "Florence Pugh" },
+          { "@type": "Person", name: "Robert Pattinson" },
+          { "@type": "Person", name: "Javier Bardem" },
+        ],
+        image: `${siteUrl}/images/hero.webp`,
+        trailer: {
+          "@type": "VideoObject",
+          name: "Dune: Part Three | Official Teaser Trailer",
+          embedUrl: "https://www.youtube.com/embed/3_9vCamtuPY",
+          url: "https://www.youtube.com/watch?v=3_9vCamtuPY",
+          thumbnailUrl: `${siteUrl}/images/hero.webp`,
         },
       },
       {
@@ -238,16 +253,16 @@ export default function HomePageClient({
             {/* CTA Buttons */}
             <div className="mb-10 flex flex-col justify-center gap-3 sm:flex-row md:mb-12 md:gap-4">
               <button
-                onClick={() => scrollToSection("beginner-guide")}
+                onClick={() => scrollToSection("official-trailer")}
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 md:px-8 md:py-4
                            bg-[hsl(var(--nav-theme))] hover:bg-[hsl(var(--nav-theme)/0.9)]
                            text-white rounded-lg font-semibold text-base md:text-lg transition-colors"
               >
-                <BookOpen className="w-5 h-5" />
+                <Play className="w-5 h-5" />
                 {t.hero.getFreeCodesCTA}
               </button>
               <a
-                href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                href="https://www.dunemovie.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center gap-2 px-6 py-3.5 md:px-8 md:py-4
@@ -268,7 +283,7 @@ export default function HomePageClient({
       </section>
 
       {/* Video Section */}
-      <section className="px-4 py-10 md:py-12">
+      <section id="official-trailer" className="scroll-mt-24 px-4 py-10 md:py-12">
         <div className="scroll-reveal container mx-auto max-w-6xl">
           <div className="relative overflow-hidden rounded-2xl">
             <VideoFeature
@@ -1325,21 +1340,21 @@ export default function HomePageClient({
                 </p>
                 <div className="flex flex-wrap gap-3">
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://x.com/dunemovie"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
                   >
-                    <MessageCircle className="w-4 h-4" /> Discord{" "}
+                    <MessageCircle className="w-4 h-4" /> X{" "}
                     <ExternalLink className="w-3 h-3" />
                   </a>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://www.dunemovie.com/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors"
                   >
-                    Steam Community <ExternalLink className="w-3 h-3" />
+                    Official Site <ExternalLink className="w-3 h-3" />
                   </a>
                 </div>
               </div>
@@ -1400,7 +1415,7 @@ export default function HomePageClient({
               <ul className="space-y-2 text-sm">
                 <li>
                   <a
-                    href="https://discord.com/invite/lucidblocks"
+                    href="https://www.instagram.com/dunemovie/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -1410,7 +1425,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <a
-                    href="https://x.com/lucidblocks"
+                    href="https://x.com/dunemovie"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -1420,7 +1435,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <a
-                    href="https://steamcommunity.com/app/3495730"
+                    href="https://www.reddit.com/r/dune/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
@@ -1430,7 +1445,7 @@ export default function HomePageClient({
                 </li>
                 <li>
                   <a
-                    href="https://store.steampowered.com/app/3495730/Lucid_Blocks/"
+                    href="https://www.tiktok.com/@dunemovie"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-[hsl(var(--nav-theme-light))] transition"
