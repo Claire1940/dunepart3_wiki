@@ -52,728 +52,469 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Dune Part 3 Movie Feature",
+    "description": "Denis Villeneuve's epic conclusion to the Dune trilogy, based on Frank Herbert's Dune Messiah, arrives in theaters and IMAX on December 18, 2026."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Dune Part 3",
+    "titleHighlight": "Guide",
+    "subtitle": "Everything you need for Dune: Part Three — release date, trailer, cast, story, IMAX, and watch order.",
     "cards": [
       {
-        "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
-      },
-      {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Clock",
+        "title": "Dune Part 3 Release Date",
+        "description": "Theatrical release date, theaters, and official update hubs"
       },
       {
         "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "title": "Dune Part 3 Trailer",
+        "description": "Official teaser, full trailer, and IMAX event footage"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
+        "icon": "Users",
+        "title": "Dune Part 3 Cast",
+        "description": "Returning actors, new stars, and confirmed character roles"
       },
       {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
+        "icon": "BookOpen",
+        "title": "Dune Part 3 Plot",
+        "description": "Spoiler-light story guide and Dune Messiah connections"
       },
       {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
+        "icon": "Sparkles",
+        "title": "Dune Part 3 Paul and Chani",
+        "description": "The central relationship conflict after Part Two"
       },
       {
         "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
+        "title": "Dune Part 3 IMAX Tickets",
+        "description": "IMAX, 70mm, showtimes, and ticket sources"
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
+        "icon": "Hammer",
+        "title": "Dune Part 3 Production",
+        "description": "Director, writers, crew, and filming timeline"
       },
       {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "ArrowRight",
+        "title": "Dune Part 3 Watch Order",
+        "description": "Catch-up order before Part Three arrives"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
-      "steps": [
-        {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
-        },
-        {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
-        },
-        {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
-        },
-        {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
-        }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
-      ]
-    },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
-        {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
-        },
-        {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
-        },
-        {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
-        },
-        {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
-        }
-      ],
-      "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
+    "dunePart3ReleaseDate": {
+      "title": "Dune Part 3 Release Date and Theaters",
+      "displayType": "table",
+      "intro": "The core release facts for Dune: Part Three, including the confirmed date, theatrical status, studio information, and where to follow ticketing or campaign updates.",
       "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "label": "Theatrical release date",
+          "value": "December 18, 2026",
+          "detail": "Warner Bros. lists the movie with a theatrical release date of December 18, 2026."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "label": "Release format",
+          "value": "Only in theaters",
+          "detail": "The official movie site promotes Dune: Part Three as an in-theater release."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "label": "Distributor",
+          "value": "Warner Bros.",
+          "detail": "Legendary lists Warner Bros. as the distributor for Dune: Part Three."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "label": "Studio",
+          "value": "Legendary Pictures and Warner Bros.",
+          "detail": "The official campaign is presented by Legendary and Warner Bros. Entertainment."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
+          "label": "Director",
+          "value": "Denis Villeneuve",
+          "detail": "Villeneuve returns to direct the third film in his Dune trilogy."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
+          "label": "Screenplay",
+          "value": "Denis Villeneuve and Brian K. Vaughan",
+          "detail": "The official site lists Villeneuve and Brian K. Vaughan as writers."
         },
         {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
+          "label": "Source material",
+          "value": "Dune Messiah by Frank Herbert",
+          "detail": "The film is based on Frank Herbert's second Dune novel, Dune Messiah."
         },
         {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
+          "label": "Official update hub",
+          "value": "DuneMovie.com",
+          "detail": "The official site includes trailer access, Dune Insider signup, and social channels."
         }
       ]
     },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
+    "dunePart3Trailer": {
+      "title": "Dune Part 3 Trailer and Official Footage",
+      "displayType": "video-cards",
+      "intro": "The main official video touchpoints for Dune: Part Three, so viewers can quickly find the newest trailer, the earlier teaser, and event footage without sorting through fan edits or concept trailers.",
       "items": [
         {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
+          "title": "Dune: Part Three Official Trailer",
+          "type": "Official Trailer",
+          "url": "https://www.youtube.com/watch?v=NdvqHc56lE0",
+          "releaseWindow": "July 2026",
+          "focus": "The latest trailer highlights Paul Atreides after his rise to power, Chani confronting him, Duncan Idaho's return, and Robert Pattinson's Scytale."
         },
         {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
+          "title": "Dune: Part Three Official Teaser Trailer",
+          "type": "Official Teaser",
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY",
+          "releaseWindow": "March 2026",
+          "focus": "The teaser introduces the film as the epic conclusion to Denis Villeneuve's trilogy and points viewers to the December 18 theatrical release."
         },
         {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
+          "title": "Global IMAX Fan Event",
+          "type": "Special Footage Event",
+          "url": "https://www.imax.com/global-imax-fan-event",
+          "releaseWindow": "July 8, 2026",
+          "focus": "The IMAX event promoted an exclusive trailer sneak peek, special footage for Dune: Part Three, and a live Q&A with Denis Villeneuve."
         },
         {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
+          "title": "Official Dune Movie Video Hub",
+          "type": "Official Site Video Section",
+          "url": "https://www.dunemovie.com/",
+          "releaseWindow": "Ongoing",
+          "focus": "The official site keeps the trailer campaign, Dune Insider signup, and social update links in one place."
         }
       ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
+      "sources": [
+        { "label": "DuneMovie.com", "url": "https://www.dunemovie.com/" },
+        { "label": "YouTube Teaser", "url": "https://www.youtube.com/watch?v=3_9vCamtuPY" },
+        { "label": "YouTube Trailer", "url": "https://www.youtube.com/watch?v=NdvqHc56lE0" },
+        { "label": "IMAX Fan Event", "url": "https://www.imax.com/global-imax-fan-event" }
       ]
     },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
+    "dunePart3Cast": {
+      "title": "Dune Part 3 Cast and Characters",
+      "displayType": "card-list",
+      "intro": "The main actors and character roles to know before Dune: Part Three, with returning leads, major political players, and new figures from the Dune Messiah story.",
+      "items": [
         {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
+          "actor": "Timothée Chalamet",
+          "character": "Paul Atreides",
+          "roleSummary": "Paul returns as the central figure of the story after becoming emperor of the known universe."
         },
         {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
+          "actor": "Zendaya",
+          "character": "Chani",
+          "roleSummary": "Chani returns as a Fremen warrior and Paul's former lover, with the trailer placing her in direct emotional conflict with Paul."
         },
         {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
+          "actor": "Jason Momoa",
+          "character": "Duncan Idaho",
+          "roleSummary": "Duncan Idaho returns in the third film despite his death in the first Dune movie, becoming one of the biggest character hooks for Dune Messiah readers."
         },
         {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
+          "actor": "Florence Pugh",
+          "character": "Princess Irulan",
+          "roleSummary": "Princess Irulan returns as Paul's wife and the daughter of the dethroned Emperor Shaddam IV."
+        },
+        {
+          "actor": "Rebecca Ferguson",
+          "character": "Lady Jessica",
+          "roleSummary": "Lady Jessica returns as Paul's mother and a major Bene Gesserit figure in the Atreides line."
+        },
+        {
+          "actor": "Anya Taylor-Joy",
+          "character": "Alia Atreides",
+          "roleSummary": "Alia Atreides appears as Paul's sister after Anya Taylor-Joy's earlier Dune: Part Two cameo."
+        },
+        {
+          "actor": "Robert Pattinson",
+          "character": "Scytale",
+          "roleSummary": "Scytale enters the story as a white-haired antagonist with a plot against Paul's rule."
+        },
+        {
+          "actor": "Javier Bardem",
+          "character": "Stilgar",
+          "roleSummary": "Stilgar returns as a key Fremen leader connected to Paul's rise and the Fremen religious movement."
+        },
+        {
+          "actor": "Josh Brolin",
+          "character": "Gurney Halleck",
+          "roleSummary": "Gurney Halleck returns as one of the important surviving Atreides allies from the earlier films."
+        },
+        {
+          "actor": "Nakoa-Wolf Momoa",
+          "character": "Leto II",
+          "roleSummary": "Leto II is introduced as the son of Paul Atreides and Chani."
+        },
+        {
+          "actor": "Ida Brooke",
+          "character": "Ghanima",
+          "roleSummary": "Ghanima is introduced as Leto II's twin sister and the daughter of Paul and Chani."
+        },
+        {
+          "actor": "Isaach De Bankolé",
+          "character": "Farok",
+          "roleSummary": "Farok joins the film as a Fremen-connected character in the expanded Dune Messiah storyline."
         }
       ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
+      "sources": [
+        { "label": "DuneMovie.com", "url": "https://www.dunemovie.com/" },
+        { "label": "People", "url": "https://people.com/timothee-chalamet-zendaya-robert-pattinson-wow-in-dune-part-three-trailer-11814971" },
+        { "label": "Space.com", "url": "https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-dune-messiah" }
       ]
     },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
+    "dunePart3Plot": {
+      "title": "Dune Part 3 Plot and Dune Messiah Story",
       "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
+      "intro": "A spoiler-light story guide that explains the core premise behind Dune: Part Three, separating the film's official setup from wider Dune Messiah book context for viewers who want the basics before watching.",
+      "items": [
         {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
+          "question": "What book is Dune Part 3 based on?",
+          "answer": "Dune: Part Three is based on Dune Messiah, Frank Herbert's second Dune novel. The official movie site describes the film as the epic conclusion to Denis Villeneuve's trilogy.",
+          "spoilerLevel": "low"
         },
         {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
+          "question": "Where does the Dune Part 3 story begin?",
+          "answer": "The story follows Paul Atreides after the events of Dune: Part Two, with Paul ruling as emperor and facing the consequences of his choices, his power, and the war tied to his name.",
+          "spoilerLevel": "low"
         },
         {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
+          "question": "What is Paul's main conflict in Dune Part 3?",
+          "answer": "Paul is no longer only a rising hero. The story focuses on the cost of his rule, the religious movement around him, political enemies, and the future he struggles to control.",
+          "spoilerLevel": "low"
         },
         {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
+          "question": "How do Chani and Princess Irulan fit into Dune Part 3?",
+          "answer": "Chani remains emotionally central to Paul's story, while Princess Irulan brings political tension through her marriage to Paul and her connection to the fallen imperial house.",
+          "spoilerLevel": "low"
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
+          "question": "Who is Scytale in Dune Part 3?",
+          "answer": "Scytale is introduced as a new villain played by Robert Pattinson. The trailer and coverage position him as part of the threat against Paul's rule.",
+          "spoilerLevel": "medium"
         },
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "question": "Why is Dune Messiah important to Dune Part 3?",
+          "answer": "Dune Messiah continues Paul's story as Muad'Dib and emperor of the known universe. The book centers on power, worship, conspiracy, and the danger of treating Paul as a heroic savior.",
+          "spoilerLevel": "medium"
         }
+      ],
+      "sources": [
+        { "label": "DuneMovie.com", "url": "https://www.dunemovie.com/" },
+        { "label": "Penguin Random House", "url": "https://www.penguinrandomhouse.com/books/342568/dune-messiah-deluxe-hardcover-edition-by-frank-herbert/" },
+        { "label": "Space.com", "url": "https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-dune-messiah" }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
+    "dunePart3PaulAndChani": {
+      "title": "Dune Part 3 Paul and Chani Guide",
+      "displayType": "story-timeline",
+      "intro": "Dune: Part Three continues the emotional fallout from Paul's rise to power. Paul now carries the weight of empire, prophecy, war, and family, while Chani stands as the clearest challenge to the choices he made at the end of Dune: Part Two.",
+      "items": [
         {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
+          "label": "Dune: Part Two Ending",
+          "title": "Paul chooses power and Chani walks away",
+          "description": "Dune: Part Two ends with Paul taking control of the Fremen movement, challenging the Emperor, and choosing a political marriage path with Princess Irulan. Chani leaves into the desert, making their broken trust the emotional starting point for the next film.",
+          "characters": ["Paul Atreides", "Chani", "Princess Irulan"]
         },
         {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
+          "label": "Part Three Setup",
+          "title": "Paul rules, but peace is not simple",
+          "description": "Dune: Part Three adapts Frank Herbert's Dune Messiah and moves into Paul's reign as emperor. The story focuses on the consequences of his rule, the people who want to destroy him, and the personal cost of becoming a messianic political figure.",
+          "characters": ["Paul Atreides", "Lady Jessica", "Scytale"]
         },
         {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
+          "label": "Trailer Conflict",
+          "title": "Chani confronts Paul over a broken promise",
+          "description": "The official trailer places Paul and Chani's argument at the center of the story. Chani challenges Paul for taking power in his own name, while Paul appears trapped between protecting his family and controlling the violent future he helped create.",
+          "characters": ["Paul Atreides", "Chani"]
         },
         {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
+          "label": "Family Stakes",
+          "title": "Paul and Chani's future family becomes part of the story",
+          "description": "Current cast information connects the next film to Paul and Chani's children, Leto II and Ghanima. Nakoa-Wolf Momoa is listed as Leto II, while Ida Brooke is listed as Ghanima.",
+          "characters": ["Leto II", "Ghanima", "Paul Atreides", "Chani"]
         },
         {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
+          "label": "Cast Focus",
+          "title": "Timothée Chalamet and Zendaya return as the main emotional pair",
+          "description": "Timothée Chalamet returns as Paul Atreides and Zendaya returns as Chani. Florence Pugh also returns as Princess Irulan, keeping the Paul, Chani, and Irulan tension central to the Part Three story.",
+          "characters": ["Timothée Chalamet", "Zendaya", "Florence Pugh"]
         }
+      ],
+      "sources": [
+        { "label": "Warner Bros. Part Two", "url": "https://www.warnerbros.com/movies/dune-part-two" },
+        { "label": "People", "url": "https://people.com/timothee-chalamet-asks-forgiveness-in-new-dune-part-three-trailer-12014388" },
+        { "label": "DuneMovie.com", "url": "https://www.dunemovie.com/" }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
+    "dunePart3ImaxTickets": {
+      "title": "Dune Part 3 IMAX and 70mm Tickets",
+      "displayType": "table",
+      "intro": "Dune: Part Three is built as a major theatrical event with IMAX and IMAX 70mm pages already active. The official release date is December 18, 2026, with Warner Bros. listing the film as only in theaters.",
+      "items": [
         {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
+          "format": "Theatrical Release",
+          "status": "Only in theaters on December 18, 2026",
+          "bestFor": "General audiences checking the main release date",
+          "whereToCheck": "Warner Bros. and the official Dune movie site"
         },
         {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
+          "format": "IMAX",
+          "status": "Official IMAX movie page is live",
+          "bestFor": "Fans who want the largest premium-screen presentation",
+          "whereToCheck": "IMAX movie page and local IMAX theater listings"
         },
         {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
+          "format": "IMAX 70mm",
+          "status": "Fandango lists Dune: Part Three - The IMAX 70MM Experience with a December 18 opening",
+          "bestFor": "Fans looking for rare film-format premium screenings",
+          "whereToCheck": "IMAX 70mm announcement page and Fandango IMAX 70mm page"
         },
         {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
+          "format": "Local Showtimes",
+          "status": "Showtimes depend on theater and region",
+          "bestFor": "Finding nearby screenings after local listings update",
+          "whereToCheck": "Fandango, IMAX, and local theater pages"
+        },
+        {
+          "format": "Rating",
+          "status": "Fandango currently lists the IMAX 70mm page as NR",
+          "bestFor": "Users checking ticket-page metadata before release",
+          "whereToCheck": "Fandango movie overview"
         }
+      ],
+      "sources": [
+        { "label": "IMAX Movie Page", "url": "https://www.imax.com/movie/dune-part-three" },
+        { "label": "IMAX 70mm News", "url": "https://www.imax.com/news/dune-part-three-in-imax-70mm-film" },
+        { "label": "Fandango IMAX 70mm", "url": "https://www.fandango.com/dune-part-three-the-imax-70mm-experience-2026-245188/movie-overview" }
       ]
     },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
+    "dunePart3Production": {
+      "title": "Dune Part 3 Production and Filming",
       "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
+      "intro": "Dune: Part Three is directed by Denis Villeneuve and written by Villeneuve with Brian K. Vaughan. The film is based on Dune Messiah by Frank Herbert and is positioned by the official site as the epic conclusion to Villeneuve's trilogy.",
+      "items": [
         {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
+          "date": "2025",
+          "title": "Production moves forward under Denis Villeneuve",
+          "description": "The third film continues Villeneuve's Dune adaptation after Dune and Dune: Part Two. Current production coverage places filming activity in 2025, including Budapest and desert production context.",
+          "keyPeople": ["Denis Villeneuve"]
         },
         {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
+          "date": "March 17, 2026",
+          "title": "Official teaser trailer released",
+          "description": "Warner Bros. and Legendary shared the first teaser trailer, giving audiences an early look at Paul's rule, Chani's role, and the darker Dune Messiah direction.",
+          "keyPeople": ["Timothée Chalamet", "Zendaya", "Denis Villeneuve"]
         },
         {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+          "date": "July 8, 2026",
+          "title": "Full trailer launches at a Global IMAX Fan Event",
+          "description": "The full trailer arrived with a fan-event push, including appearances tied to Timothée Chalamet and Denis Villeneuve. The trailer highlights action, political tension, and Paul and Chani's conflict.",
+          "keyPeople": ["Timothée Chalamet", "Denis Villeneuve"]
+        },
+        {
+          "date": "Creative Team",
+          "title": "Returning and new major crew members",
+          "description": "Denis Villeneuve directs and co-writes with Brian K. Vaughan. Hans Zimmer returns for the score, Joe Walker returns as editor, Patric Vermette returns as production designer, and Linus Sandgren handles cinematography.",
+          "keyPeople": ["Denis Villeneuve", "Brian K. Vaughan", "Hans Zimmer", "Joe Walker", "Patric Vermette", "Linus Sandgren"]
+        },
+        {
+          "date": "December 18, 2026",
+          "title": "Theatrical release date",
+          "description": "Warner Bros. lists Dune: Part Three for a December 18, 2026 theatrical release. The official movie site promotes it as only in theaters on 12.18.",
+          "keyPeople": ["Warner Bros.", "Legendary"]
         }
+      ],
+      "sources": [
+        { "label": "Warner Bros.", "url": "https://www.warnerbros.com/movies/dune-part-three" },
+        { "label": "DuneMovie.com", "url": "https://www.dunemovie.com/" },
+        { "label": "Variety", "url": "https://variety.com/2025/film/news/dune-3-title-imax-cameras-1236448953/" }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
+    "dunePart3WatchOrder": {
+      "title": "Dune Part 3 Watch Order and Recap",
+      "displayType": "step-by-step",
+      "intro": "The easiest way to prepare for Dune: Part Three is to watch Denis Villeneuve's two-film adaptation first: Dune from 2021, then Dune: Part Two from 2024. Dune: Part Three continues after those films and adapts Dune Messiah.",
+      "items": [
         {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
+          "step": 1,
+          "title": "Watch Dune",
+          "year": "2021",
+          "whyItMatters": "This introduces Paul Atreides, House Atreides, Arrakis, the Fremen, spice, and the political trap that destroys Paul's old life.",
+          "recapFocus": ["Paul arrives on Arrakis", "House Atreides falls", "Paul begins his path among the Fremen"]
         },
         {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
+          "step": 2,
+          "title": "Watch Dune: Part Two",
+          "year": "2024",
+          "whyItMatters": "This completes the first book's main movie arc and shows Paul's rise to power, his relationship with Chani, the Fremen war, and the ending that sets up Part Three.",
+          "recapFocus": ["Paul becomes Muad'Dib", "Chani loses trust in Paul", "Princess Irulan becomes part of Paul's political future"]
         },
         {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
+          "step": 3,
+          "title": "Use the Dune 2-Film Collection for the shortest catch-up path",
+          "year": "Collection",
+          "whyItMatters": "Warner Bros. lists a Dune 2-Film Collection for viewers who want both main films together before Part Three.",
+          "recapFocus": ["Dune", "Dune: Part Two", "Main Villeneuve movie timeline"]
         },
         {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
+          "step": 4,
+          "title": "Optional: Watch Dune: Prophecy for broader franchise context",
+          "year": "Optional",
+          "whyItMatters": "The prequel series is not required to understand Paul and Chani's Part Three story, but it can help viewers explore more of the Bene Gesserit and the wider Dune universe.",
+          "recapFocus": ["Bene Gesserit context", "Dune universe background", "Optional lore"]
         },
         {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "step": 5,
+          "title": "Then watch Dune: Part Three",
+          "year": "2026",
+          "whyItMatters": "Dune: Part Three is scheduled for December 18, 2026 and continues into the Dune Messiah story, focusing on Paul's rule and the consequences of the power he claimed.",
+          "recapFocus": ["Paul as emperor", "Chani conflict", "Dune Messiah storyline"]
         }
+      ],
+      "sources": [
+        { "label": "Warner Bros. Dune", "url": "https://www.warnerbros.com/movies/dune" },
+        { "label": "Warner Bros. Part Two", "url": "https://www.warnerbros.com/movies/dune-part-two" },
+        { "label": "Dune 2-Film Collection", "url": "https://www.warnerbros.com/movies/dune-2-film-collection" }
       ]
     }
   },
   "faq": {
-    "title": "Frequently Asked",
-    "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "title": "Dune Part 3",
+    "titleHighlight": "FAQ",
+    "subtitle": "Frequently asked questions about Dune: Part Three's release, cast, story, and IMAX release.",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "When is the Dune Part 3 release date?",
+        "answer": "Dune: Part Three is scheduled for a theatrical release on December 18, 2026, with Warner Bros. listing the film as only in theaters."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "What book is Dune Part 3 based on?",
+        "answer": "Dune: Part Three is based on Dune Messiah, Frank Herbert's second Dune novel, and the official site describes it as the epic conclusion to Denis Villeneuve's trilogy."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Who directs Dune Part 3?",
+        "answer": "Denis Villeneuve returns to direct Dune: Part Three, co-writing the screenplay with Brian K. Vaughan and concluding his Dune trilogy."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "Who is in the Dune Part 3 cast?",
+        "answer": "The Dune: Part Three cast includes Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Anya Taylor-Joy, Javier Bardem, Josh Brolin, and Robert Pattinson as Scytale."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "Will Dune Part 3 be released in IMAX?",
+        "answer": "Yes. Dune: Part Three is built as a major theatrical event, with IMAX and IMAX 70mm pages already live on IMAX and Fandango ahead of the December 18 release."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Do I need to watch Dune and Dune Part Two before Dune Part 3?",
+        "answer": "Yes. Watch Dune (2021) then Dune: Part Two (2024) before Dune: Part Three, since the third film adapts Dune Messiah and continues Paul Atreides' story after his rise to power."
+      },
+      {
+        "question": "Who plays Scytale in Dune Part 3?",
+        "answer": "Robert Pattinson joins Dune: Part Three as Scytale, a new antagonist in the Dune Messiah storyline who plots against Paul's rule."
+      },
+      {
+        "question": "Where can I watch the Dune Part 3 trailer?",
+        "answer": "The official Dune: Part Three teaser and full trailer are available on YouTube and the official Dune movie site, with the full trailer launching at the Global IMAX Fan Event."
       }
     ]
   },
@@ -802,124 +543,124 @@
   },
   "pages": {
     "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+      "title": "Dune Part 3 Guides",
+      "description": "Complete Dune Part 3 guides covering release, trailer, cast, story, IMAX, and watch order for movie fans.",
+      "metaTitle": "Dune Part 3 Guides - Release, Cast, Trailer & Story",
+      "metaDescription": "Complete Dune Part 3 guides covering release date, official trailer, full cast, story, IMAX details, characters, and Dune Messiah connections.",
+      "categoryLabel": "DUNE PART 3 GUIDES",
+      "whatIs": "What are Dune Part 3 Guides?",
+      "whatIsDescription": "Comprehensive guides covering the Dune Part 3 release date, official trailer, full cast, story, IMAX release, characters, and Dune Messiah connections.",
+      "why": "Why read Dune Part 3 guides?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Stay Updated on Release",
+        "step1Description": "Track the confirmed December 18, 2026 theatrical release and IMAX openings",
+        "step2Title": "Understand the Story",
+        "step2Description": "Follow the spoiler-light Dune Messiah adaptation and Paul Atreides' reign",
+        "step3Title": "Know the Cast",
+        "step3Description": "Learn the returning actors, new stars, and confirmed character roles"
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Dune Part 3 Guides"
     },
     "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+      "title": "Dune Part 3 Story",
+      "description": "Dune Part 3 story guides covering the Dune Messiah adaptation, Paul's reign, and the central Paul and Chani conflict.",
+      "metaTitle": "Dune Part 3 Story - Dune Messiah Adaptation & Plot",
+      "metaDescription": "Explore the Dune Part 3 story, the Dune Messiah adaptation, Paul Atreides' reign as emperor, and the central Paul and Chani conflict.",
+      "categoryLabel": "DUNE PART 3 STORY",
+      "whatIs": "What is the Dune Part 3 Story?",
+      "whatIsDescription": "Guides to the Dune Part 3 plot, the Dune Messiah source novel, Paul's rule as emperor, and the consequences of his rise to power.",
+      "why": "Why follow the Dune Part 3 story?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Understand Dune Messiah",
+        "step1Description": "Learn how Dune Part 3 adapts Frank Herbert's second Dune novel",
+        "step2Title": "Track Paul's Reign",
+        "step2Description": "Follow Paul Atreides as emperor and the cost of his power",
+        "step3Title": "Follow the Conflict",
+        "step3Description": "See how Chani, Princess Irulan, and Scytale shape the story"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Dune Part 3 Story Guides"
     },
     "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+      "title": "Dune Part 3 Characters",
+      "description": "Dune Part 3 character guides covering Paul Atreides, Chani, Duncan Idaho, Princess Irulan, Alia, Scytale, and the full cast.",
+      "metaTitle": "Dune Part 3 Characters - Cast & Roles Guide",
+      "metaDescription": "Complete Dune Part 3 character and cast guide covering Paul Atreides, Chani, Duncan Idaho, Princess Irulan, Alia Atreides, and Scytale.",
+      "categoryLabel": "DUNE PART 3 CHARACTERS",
+      "whatIs": "Who are the Dune Part 3 Characters?",
+      "whatIsDescription": "Guides to the returning cast, new actors, and confirmed character roles in Dune Part 3, including Paul, Chani, and Robert Pattinson's Scytale.",
+      "why": "Why explore Dune Part 3 characters?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Know the Cast",
+        "step1Description": "Learn the actors behind Paul, Chani, and the returning leads",
+        "step2Title": "Track New Faces",
+        "step2Description": "Meet Robert Pattinson's Scytale and other new arrivals",
+        "step3Title": "Understand Roles",
+        "step3Description": "See how each character fits the Dune Messiah storyline"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Dune Part 3 Characters"
     },
     "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+      "title": "Dune Part 3 World",
+      "description": "Dune Part 3 world guides covering Arrakis, the Fremen, the Bene Gesserit, House Atreides, and the wider Dune universe.",
+      "metaTitle": "Dune Part 3 World - Arrakis, Fremen & Factions",
+      "metaDescription": "Explore the Dune Part 3 world, including Arrakis, the Fremen, the Bene Gesserit, House Atreides, and the factions shaping Paul's reign.",
+      "categoryLabel": "DUNE PART 3 WORLD",
+      "whatIs": "What is the Dune Part 3 World?",
+      "whatIsDescription": "Guides to Arrakis, the Fremen, the Bene Gesserit, House Atreides, and the political factions that define the Dune Part 3 universe.",
+      "why": "Why explore the Dune Part 3 world?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Visit Arrakis",
+        "step1Description": "Understand the desert planet and its central role in the saga",
+        "step2Title": "Know the Factions",
+        "step2Description": "Learn the Fremen, Bene Gesserit, and the great houses",
+        "step3Title": "Track the Politics",
+        "step3Description": "Follow the imperial politics around Paul's rule"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Dune Part 3 World Guides"
     },
     "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+      "title": "Dune Part 3 Books",
+      "description": "Dune Part 3 book guides covering Dune Messiah, Frank Herbert's original novels, and how the film adapts the source material.",
+      "metaTitle": "Dune Part 3 Books - Dune Messiah & Frank Herbert Novels",
+      "metaDescription": "Explore the Dune Part 3 source material, including Dune Messiah, Frank Herbert's original novels, and how Denis Villeneuve adapts the books.",
+      "categoryLabel": "DUNE PART 3 BOOKS",
+      "whatIs": "What are the Dune Part 3 Books?",
+      "whatIsDescription": "Guides to Dune Messiah, Frank Herbert's Dune novels, and how Dune Part 3 translates the source material to the screen.",
+      "why": "Why read about the Dune Part 3 books?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Read Dune Messiah",
+        "step1Description": "Understand the novel Dune Part 3 is based on",
+        "step2Title": "Track the Adaptation",
+        "step2Description": "See how Villeneuve translates the book to film",
+        "step3Title": "Explore the Saga",
+        "step3Description": "Discover the wider Frank Herbert Dune universe"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Dune Part 3 Book Guides"
     },
     "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+      "title": "Dune Part 3 Release & Tickets",
+      "description": "Dune Part 3 release and ticket guides covering the theatrical release, IMAX, 70mm, showtimes, and where to buy tickets.",
+      "metaTitle": "Dune Part 3 Release & Tickets - IMAX, 70mm & Showtimes",
+      "metaDescription": "Get Dune Part 3 release and ticket information, including IMAX, 70mm, showtimes, and where to find tickets for the December 18, 2026 release.",
+      "categoryLabel": "DUNE PART 3 RELEASE",
+      "whatIs": "What is the Dune Part 3 Release?",
+      "whatIsDescription": "Guides covering the Dune Part 3 theatrical release date, IMAX and 70mm formats, showtimes, and official ticket sources.",
+      "why": "Why check Dune Part 3 release guides?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Find the Release Date",
+        "step1Description": "Confirm the December 18, 2026 theatrical release",
+        "step2Title": "Pick a Format",
+        "step2Description": "Compare IMAX, 70mm, and standard screenings",
+        "step3Title": "Get Tickets",
+        "step3Description": "Find showtimes and official ticket sources"
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Dune Part 3 Release Guides"
     }
   }
 }
