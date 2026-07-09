@@ -92,8 +92,9 @@ export default function Copyright() {
             </p>
             <ul>
               <li><strong>Warner Bros. Pictures</strong> - Distributor and rights holder</li>
-              <li><strong>Legendary</strong> - Production company and rights holder</li>
+              <li><strong>Legendary Pictures</strong> - Production company and rights holder</li>
               <li><strong>Denis Villeneuve</strong> - Director and rights holder</li>
+              <li><strong>Frank Herbert</strong> - Author of the original Dune novel series</li>
             </ul>
             <p>
               All movie-related content, including but not limited to:
@@ -154,8 +155,9 @@ export default function Copyright() {
             </p>
             <ul>
               <li><strong>Dune: Part Three</strong> and <strong>Dune</strong> - Trademarks of the rights holders</li>
+              <li><strong>Dune</strong> (novel series) - Based on the novels written by Frank Herbert</li>
               <li><strong>Warner Bros. Pictures</strong> - Trademark of Warner Bros. Entertainment Inc.</li>
-              <li><strong>Legendary</strong> - Trademark of Legendary Entertainment</li>
+              <li><strong>Legendary Pictures</strong> - Trademark of Legendary Entertainment</li>
               <li><strong>IMAX</strong> - Trademark of IMAX Corporation</li>
               <li><strong>Dune Part 3 Wiki</strong> - Our own branding (not affiliated with the film)</li>
             </ul>

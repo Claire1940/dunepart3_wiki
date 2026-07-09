@@ -238,8 +238,8 @@ export default function About() {
             <h2>Important Disclaimer</h2>
             <p className="text-yellow-400/90">
               <strong>Dune Part 3 Wiki is an unofficial fan-made website.</strong> We are NOT affiliated with,
-              endorsed by, or associated with Warner Bros. Pictures, Legendary, Denis Villeneuve, or the rights
-              holders of Dune: Part Three.
+              endorsed by, or associated with Warner Bros. Pictures, Legendary Pictures, Denis Villeneuve, or the
+              estate of Frank Herbert (author of the original Dune novels), or the rights holders of Dune: Part Three.
             </p>
             <p>
               All movie content, trademarks, characters, and assets are the property of their respective owners.
