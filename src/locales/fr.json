@@ -1,1 +1,9 @@
-{}
+{
+  "nav": {
+    "release": "Sortie",
+    "trailer": "Bande-annonce",
+    "cast": "Distribution",
+    "story": "Histoire",
+    "characters": "Personnages"
+  }
+}

@@ -10,7 +10,13 @@
       "twitterDescription": "Dune Part Three complete guide: release date, official trailer, full cast, story, IMAX details, and Dune Messiah connections for movie fans."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "trailer": "Trailer",
+    "cast": "Cast",
+    "story": "Story",
+    "characters": "Characters"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -522,125 +528,105 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Dune Part 3 Guides",
-      "description": "Complete Dune Part 3 guides covering release, trailer, cast, story, IMAX, and watch order for movie fans.",
-      "metaTitle": "Dune Part 3 Guides - Release, Cast, Trailer & Story",
-      "metaDescription": "Complete Dune Part 3 guides covering release date, official trailer, full cast, story, IMAX details, characters, and Dune Messiah connections.",
-      "categoryLabel": "DUNE PART 3 GUIDES",
-      "whatIs": "What are Dune Part 3 Guides?",
-      "whatIsDescription": "Comprehensive guides covering the Dune Part 3 release date, official trailer, full cast, story, IMAX release, characters, and Dune Messiah connections.",
-      "why": "Why read Dune Part 3 guides?",
+    "release": {
+      "title": "Dune Part 3 Release",
+      "description": "Dune Part 3 release date guides covering the theatrical premiere, international openings, IMAX, and regional release schedules.",
+      "metaTitle": "Dune Part 3 Release - Theatrical Date, IMAX & Regional Openings",
+      "metaDescription": "Track the Dune Part 3 release date, theatrical premiere, IMAX openings, and regional release schedules for December 18, 2026.",
+      "categoryLabel": "DUNE PART 3 RELEASE",
+      "whatIs": "What is the Dune Part 3 Release?",
+      "whatIsDescription": "The Dune Part 3 release covers the confirmed theatrical premiere on December 18, 2026, IMAX and premium format openings, and regional release dates across the US, UK, India, the Philippines, and more.",
+      "why": "Why track the Dune Part 3 release?",
       "whySteps": {
-        "step1Title": "Stay Updated on Release",
-        "step1Description": "Track the confirmed December 18, 2026 theatrical release and IMAX openings",
-        "step2Title": "Understand the Story",
-        "step2Description": "Follow the spoiler-light Dune Messiah adaptation and Paul Atreides' reign",
-        "step3Title": "Know the Cast",
-        "step3Description": "Learn the returning actors, new stars, and confirmed character roles"
+        "step1Title": "Confirm the Premiere Date",
+        "step1Description": "Lock in the December 18, 2026 theatrical release shared by Warner Bros.",
+        "step2Title": "Pick a Premium Format",
+        "step2Description": "Compare IMAX and IMAX 70mm screenings for the best presentation.",
+        "step3Title": "Check Regional Openings",
+        "step3Description": "Find US, UK, India, and Philippines release windows as they land."
       },
       "featured": "Featured & Essential",
-      "all": "All Dune Part 3 Guides"
+      "all": "All Release Guides"
     },
-    "crafting": {
+    "trailer": {
+      "title": "Dune Part 3 Trailer",
+      "description": "Dune Part 3 trailer guides covering the official teaser, full trailer, trailer breakdown, reactions, and YouTube releases.",
+      "metaTitle": "Dune Part 3 Trailer - Official Teaser, Full Trailer & Breakdown",
+      "metaDescription": "Watch the Dune Part 3 official teaser and full trailer, read trailer breakdowns and reactions, and find every official YouTube release.",
+      "categoryLabel": "DUNE PART 3 TRAILER",
+      "whatIs": "What is the Dune Part 3 Trailer?",
+      "whatIsDescription": "The Dune Part 3 trailer collection covers the official teaser, the full trailer, frame-by-frame trailer breakdowns, fan reactions, and the YouTube release dates for each official video drop.",
+      "why": "Why watch the Dune Part 3 trailer?",
+      "whySteps": {
+        "step1Title": "Catch the Official Teaser",
+        "step1Description": "Watch the first teaser that set up Paul's reign and the Dune Messiah tone.",
+        "step2Title": "Watch the Full Trailer",
+        "step2Description": "See the full trailer launched at the Global IMAX Fan Event.",
+        "step3Title": "Dig Into the Breakdown",
+        "step3Description": "Read shot-by-shot breakdowns of hidden details and reveals."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Trailer Guides"
+    },
+    "cast": {
+      "title": "Dune Part 3 Cast",
+      "description": "Dune Part 3 cast guides covering Timothée Chalamet, Zendaya, Jason Momoa, Robert Pattinson, Anya Taylor-Joy, and the full ensemble.",
+      "metaTitle": "Dune Part 3 Cast - Full Actors & Returning Stars",
+      "metaDescription": "Meet the Dune Part 3 cast, including Timothée Chalamet, Zendaya, Jason Momoa, Robert Pattinson, Anya Taylor-Joy, and the full returning ensemble.",
+      "categoryLabel": "DUNE PART 3 CAST",
+      "whatIs": "Who is in the Dune Part 3 Cast?",
+      "whatIsDescription": "The Dune Part 3 cast covers the full ensemble, led by Timothée Chalamet and Zendaya, with returning stars like Jason Momoa, Florence Pugh, and Javier Bardem, plus new arrivals led by Robert Pattinson as Scytale and Anya Taylor-Joy as Alia.",
+      "why": "Why explore the Dune Part 3 cast?",
+      "whySteps": {
+        "step1Title": "Follow the Returning Leads",
+        "step1Description": "See Timothée Chalamet, Zendaya, and the surviving Atreides allies back on screen.",
+        "step2Title": "Meet the New Stars",
+        "step2Description": "Get to know Robert Pattinson's Scytale and Anya Taylor-Joy's Alia.",
+        "step3Title": "Match Actors to Roles",
+        "step3Description": "Connect each actor to their character in the Dune Messiah story."
+      },
+      "featured": "Featured & Essential",
+      "all": "All Cast Guides"
+    },
+    "story": {
       "title": "Dune Part 3 Story",
-      "description": "Dune Part 3 story guides covering the Dune Messiah adaptation, Paul's reign, and the central Paul and Chani conflict.",
-      "metaTitle": "Dune Part 3 Story - Dune Messiah Adaptation & Plot",
-      "metaDescription": "Explore the Dune Part 3 story, the Dune Messiah adaptation, Paul Atreides' reign as emperor, and the central Paul and Chani conflict.",
+      "description": "Dune Part 3 story guides covering the Dune Messiah adaptation, Paul's reign, the plot, synopsis, ending, and the Dune Messiah novel.",
+      "metaTitle": "Dune Part 3 Story - Dune Messiah Plot, Synopsis & Ending",
+      "metaDescription": "Explore the Dune Part 3 story, the Dune Messiah adaptation, Paul Atreides' reign as emperor, the plot, synopsis, ending, and the source novel.",
       "categoryLabel": "DUNE PART 3 STORY",
       "whatIs": "What is the Dune Part 3 Story?",
-      "whatIsDescription": "Guides to the Dune Part 3 plot, the Dune Messiah source novel, Paul's rule as emperor, and the consequences of his rise to power.",
+      "whatIsDescription": "The Dune Part 3 story adapts Frank Herbert's Dune Messiah, following Paul Atreides as emperor, the conspiracy against his rule, and the cost of the power he claimed at the end of Dune: Part Two.",
       "why": "Why follow the Dune Part 3 story?",
       "whySteps": {
         "step1Title": "Understand Dune Messiah",
-        "step1Description": "Learn how Dune Part 3 adapts Frank Herbert's second Dune novel",
+        "step1Description": "Learn how Dune Part 3 adapts Frank Herbert's second Dune novel.",
         "step2Title": "Track Paul's Reign",
-        "step2Description": "Follow Paul Atreides as emperor and the cost of his power",
+        "step2Description": "Follow Paul Atreides as emperor and the cost of his power.",
         "step3Title": "Follow the Conflict",
-        "step3Description": "See how Chani, Princess Irulan, and Scytale shape the story"
+        "step3Description": "See how Chani, Princess Irulan, and Scytale shape the story."
       },
       "featured": "Featured & Essential",
-      "all": "All Dune Part 3 Story Guides"
+      "all": "All Story Guides"
     },
-    "items": {
+    "characters": {
       "title": "Dune Part 3 Characters",
-      "description": "Dune Part 3 character guides covering Paul Atreides, Chani, Duncan Idaho, Princess Irulan, Alia, Scytale, and the full cast.",
-      "metaTitle": "Dune Part 3 Characters - Cast & Roles Guide",
-      "metaDescription": "Complete Dune Part 3 character and cast guide covering Paul Atreides, Chani, Duncan Idaho, Princess Irulan, Alia Atreides, and Scytale.",
+      "description": "Dune Part 3 character guides covering Paul Atreides, Chani, Scytale, Alia, the Guild Navigator, Hayt, Bijaz, and the full Dune Messiah cast.",
+      "metaTitle": "Dune Part 3 Characters - Paul, Chani, Scytale & Full Roles",
+      "metaDescription": "Complete Dune Part 3 character guide covering Paul Atreides, Chani, Scytale, Alia, the Guild Navigator, Hayt, Bijaz, and every major role in the Dune Messiah story.",
       "categoryLabel": "DUNE PART 3 CHARACTERS",
       "whatIs": "Who are the Dune Part 3 Characters?",
-      "whatIsDescription": "Guides to the returning cast, new actors, and confirmed character roles in Dune Part 3, including Paul, Chani, and Robert Pattinson's Scytale.",
+      "whatIsDescription": "The Dune Part 3 characters include Paul Atreides, Chani, Princess Irulan, Lady Jessica, Alia, Scytale, the Guild Navigator Edric, Hayt, and Bijaz, covering the political and conspiratorial figures that drive the Dune Messiah story.",
       "why": "Why explore Dune Part 3 characters?",
       "whySteps": {
-        "step1Title": "Know the Cast",
-        "step1Description": "Learn the actors behind Paul, Chani, and the returning leads",
-        "step2Title": "Track New Faces",
-        "step2Description": "Meet Robert Pattinson's Scytale and other new arrivals",
-        "step3Title": "Understand Roles",
-        "step3Description": "See how each character fits the Dune Messiah storyline"
+        "step1Title": "Know the Leads",
+        "step1Description": "Understand Paul Atreides, Chani, and the returning Atreides figures.",
+        "step2Title": "Meet the Conspirators",
+        "step2Description": "Get to know Scytale, Edric, and Bijaz and their plot against Paul.",
+        "step3Title": "Track Character Arcs",
+        "step3Description": "Follow how each role fits Paul's reign and the Dune Messiah conflict."
       },
       "featured": "Featured & Essential",
-      "all": "All Dune Part 3 Characters"
-    },
-    "biomes": {
-      "title": "Dune Part 3 World",
-      "description": "Dune Part 3 world guides covering Arrakis, the Fremen, the Bene Gesserit, House Atreides, and the wider Dune universe.",
-      "metaTitle": "Dune Part 3 World - Arrakis, Fremen & Factions",
-      "metaDescription": "Explore the Dune Part 3 world, including Arrakis, the Fremen, the Bene Gesserit, House Atreides, and the factions shaping Paul's reign.",
-      "categoryLabel": "DUNE PART 3 WORLD",
-      "whatIs": "What is the Dune Part 3 World?",
-      "whatIsDescription": "Guides to Arrakis, the Fremen, the Bene Gesserit, House Atreides, and the political factions that define the Dune Part 3 universe.",
-      "why": "Why explore the Dune Part 3 world?",
-      "whySteps": {
-        "step1Title": "Visit Arrakis",
-        "step1Description": "Understand the desert planet and its central role in the saga",
-        "step2Title": "Know the Factions",
-        "step2Description": "Learn the Fremen, Bene Gesserit, and the great houses",
-        "step3Title": "Track the Politics",
-        "step3Description": "Follow the imperial politics around Paul's rule"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Dune Part 3 World Guides"
-    },
-    "building": {
-      "title": "Dune Part 3 Books",
-      "description": "Dune Part 3 book guides covering Dune Messiah, Frank Herbert's original novels, and how the film adapts the source material.",
-      "metaTitle": "Dune Part 3 Books - Dune Messiah & Frank Herbert Novels",
-      "metaDescription": "Explore the Dune Part 3 source material, including Dune Messiah, Frank Herbert's original novels, and how Denis Villeneuve adapts the books.",
-      "categoryLabel": "DUNE PART 3 BOOKS",
-      "whatIs": "What are the Dune Part 3 Books?",
-      "whatIsDescription": "Guides to Dune Messiah, Frank Herbert's Dune novels, and how Dune Part 3 translates the source material to the screen.",
-      "why": "Why read about the Dune Part 3 books?",
-      "whySteps": {
-        "step1Title": "Read Dune Messiah",
-        "step1Description": "Understand the novel Dune Part 3 is based on",
-        "step2Title": "Track the Adaptation",
-        "step2Description": "See how Villeneuve translates the book to film",
-        "step3Title": "Explore the Saga",
-        "step3Description": "Discover the wider Frank Herbert Dune universe"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Dune Part 3 Book Guides"
-    },
-    "support": {
-      "title": "Dune Part 3 Release & Tickets",
-      "description": "Dune Part 3 release and ticket guides covering the theatrical release, IMAX, 70mm, showtimes, and where to buy tickets.",
-      "metaTitle": "Dune Part 3 Release & Tickets - IMAX, 70mm & Showtimes",
-      "metaDescription": "Get Dune Part 3 release and ticket information, including IMAX, 70mm, showtimes, and where to find tickets for the December 18, 2026 release.",
-      "categoryLabel": "DUNE PART 3 RELEASE",
-      "whatIs": "What is the Dune Part 3 Release?",
-      "whatIsDescription": "Guides covering the Dune Part 3 theatrical release date, IMAX and 70mm formats, showtimes, and official ticket sources.",
-      "why": "Why check Dune Part 3 release guides?",
-      "whySteps": {
-        "step1Title": "Find the Release Date",
-        "step1Description": "Confirm the December 18, 2026 theatrical release",
-        "step2Title": "Pick a Format",
-        "step2Description": "Compare IMAX, 70mm, and standard screenings",
-        "step3Title": "Get Tickets",
-        "step3Description": "Find showtimes and official ticket sources"
-      },
-      "featured": "Featured & Essential",
-      "all": "All Dune Part 3 Release Guides"
+      "all": "All Character Guides"
     }
   }
 }

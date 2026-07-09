@@ -7,28 +7,22 @@ export const dynamic = 'force-static'
 
 const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.dunepart3.wiki'
 
-// 内容类型优先级配置
+// 内容类型优先级配置（与 navigation.ts 的 CONTENT_TYPES 一致）
 const contentTypePriority: Record<string, number> = {
-	'guides': 0.9,
-	'crafting': 0.9,
-	'biomes': 0.8,
-	'creatures': 0.8,
-	'items': 0.8,
-	'achievements': 0.7,
-	'lore': 0.7,
-	'support': 0.6,
+	'release': 0.9,
+	'trailer': 0.9,
+	'cast': 0.8,
+	'story': 0.8,
+	'characters': 0.8,
 }
 
-// 内容更新频率配置
+// 内容更新频率配置（与 navigation.ts 的 CONTENT_TYPES 一致）
 const contentTypeChangeFrequency: Record<string, 'daily' | 'weekly' | 'monthly'> = {
-	'guides': 'weekly',
-	'crafting': 'weekly',
-	'biomes': 'weekly',
-	'creatures': 'weekly',
-	'items': 'weekly',
-	'achievements': 'monthly',
-	'lore': 'monthly',
-	'support': 'monthly',
+	'release': 'weekly',
+	'trailer': 'weekly',
+	'cast': 'weekly',
+	'story': 'monthly',
+	'characters': 'monthly',
 }
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {

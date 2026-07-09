@@ -1,1 +1,9 @@
-{}
+{
+  "nav": {
+    "release": "公開",
+    "trailer": "予告編",
+    "cast": "キャスト",
+    "story": "ストーリー",
+    "characters": "キャラクター"
+  }
+}

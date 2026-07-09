@@ -1,1 +1,9 @@
-{}
+{
+  "nav": {
+    "release": "Estreno",
+    "trailer": "Tráiler",
+    "cast": "Reparto",
+    "story": "Historia",
+    "characters": "Personajes"
+  }
+}

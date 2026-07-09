@@ -1,1 +1,690 @@
-{}
+{
+  "en": {
+    "cast": [
+      {
+        "slug": "dune-part-three-actors",
+        "file": "dune-part-three-actors"
+      },
+      {
+        "slug": "dune-part-three-anya-taylor-joy",
+        "file": "dune-part-three-anya-taylor-joy"
+      },
+      {
+        "slug": "dune-part-three-cast",
+        "file": "dune-part-three-cast"
+      },
+      {
+        "slug": "dune-part-three-full-cast",
+        "file": "dune-part-three-full-cast"
+      },
+      {
+        "slug": "dune-part-three-jason-momoa",
+        "file": "dune-part-three-jason-momoa"
+      },
+      {
+        "slug": "dune-part-three-robert-pattinson",
+        "file": "dune-part-three-robert-pattinson"
+      },
+      {
+        "slug": "dune-part-three-timothee-chalamet",
+        "file": "dune-part-three-timothee-chalamet"
+      },
+      {
+        "slug": "dune-part-three-zendaya",
+        "file": "dune-part-three-zendaya"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "dune-part-three-alia",
+        "file": "dune-part-three-alia"
+      },
+      {
+        "slug": "dune-part-three-bijaz",
+        "file": "dune-part-three-bijaz"
+      },
+      {
+        "slug": "dune-part-three-edric",
+        "file": "dune-part-three-edric"
+      },
+      {
+        "slug": "dune-part-three-guild-navigator",
+        "file": "dune-part-three-guild-navigator"
+      },
+      {
+        "slug": "dune-part-three-hayt",
+        "file": "dune-part-three-hayt"
+      },
+      {
+        "slug": "dune-part-three-main-character",
+        "file": "dune-part-three-main-character"
+      },
+      {
+        "slug": "dune-part-three-paul-atreides",
+        "file": "dune-part-three-paul-atreides"
+      },
+      {
+        "slug": "dune-part-three-scytale",
+        "file": "dune-part-three-scytale"
+      }
+    ],
+    "release": [
+      {
+        "slug": "dune-part-three-date",
+        "file": "dune-part-three-date"
+      },
+      {
+        "slug": "dune-part-three-expected-release-date",
+        "file": "dune-part-three-expected-release-date"
+      },
+      {
+        "slug": "dune-part-three-india-release-date",
+        "file": "dune-part-three-india-release-date"
+      },
+      {
+        "slug": "dune-part-three-release-date-philippines",
+        "file": "dune-part-three-release-date-philippines"
+      },
+      {
+        "slug": "dune-part-three-release-date",
+        "file": "dune-part-three-release-date"
+      },
+      {
+        "slug": "dune-part-three-release",
+        "file": "dune-part-three-release"
+      },
+      {
+        "slug": "dune-part-three-uk-release-date",
+        "file": "dune-part-three-uk-release-date"
+      },
+      {
+        "slug": "dune-part-three-us-release-date",
+        "file": "dune-part-three-us-release-date"
+      }
+    ],
+    "story": [
+      {
+        "slug": "dune-part-three-about",
+        "file": "dune-part-three-about"
+      },
+      {
+        "slug": "dune-part-three-book",
+        "file": "dune-part-three-book"
+      },
+      {
+        "slug": "dune-part-three-dune-messiah",
+        "file": "dune-part-three-dune-messiah"
+      },
+      {
+        "slug": "dune-part-three-ending",
+        "file": "dune-part-three-ending"
+      },
+      {
+        "slug": "dune-part-three-plot",
+        "file": "dune-part-three-plot"
+      },
+      {
+        "slug": "dune-part-three-story",
+        "file": "dune-part-three-story"
+      },
+      {
+        "slug": "dune-part-three-synopsis",
+        "file": "dune-part-three-synopsis"
+      },
+      {
+        "slug": "dune-part-three-time-jump",
+        "file": "dune-part-three-time-jump"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "dune-part-three-official-teaser",
+        "file": "dune-part-three-official-teaser"
+      },
+      {
+        "slug": "dune-part-three-official-trailer",
+        "file": "dune-part-three-official-trailer"
+      },
+      {
+        "slug": "dune-part-three-teaser-trailer",
+        "file": "dune-part-three-teaser-trailer"
+      },
+      {
+        "slug": "dune-part-three-trailer-breakdown",
+        "file": "dune-part-three-trailer-breakdown"
+      },
+      {
+        "slug": "dune-part-three-trailer-reaction",
+        "file": "dune-part-three-trailer-reaction"
+      },
+      {
+        "slug": "dune-part-three-trailer-release-date",
+        "file": "dune-part-three-trailer-release-date"
+      },
+      {
+        "slug": "dune-part-three-trailer-youtube",
+        "file": "dune-part-three-trailer-youtube"
+      },
+      {
+        "slug": "dune-part-three-trailer",
+        "file": "dune-part-three-trailer"
+      }
+    ]
+  },
+  "es": {
+    "cast": [
+      {
+        "slug": "dune-part-three-actors",
+        "file": "dune-part-three-actors"
+      },
+      {
+        "slug": "dune-part-three-anya-taylor-joy",
+        "file": "dune-part-three-anya-taylor-joy"
+      },
+      {
+        "slug": "dune-part-three-cast",
+        "file": "dune-part-three-cast"
+      },
+      {
+        "slug": "dune-part-three-full-cast",
+        "file": "dune-part-three-full-cast"
+      },
+      {
+        "slug": "dune-part-three-jason-momoa",
+        "file": "dune-part-three-jason-momoa"
+      },
+      {
+        "slug": "dune-part-three-robert-pattinson",
+        "file": "dune-part-three-robert-pattinson"
+      },
+      {
+        "slug": "dune-part-three-timothee-chalamet",
+        "file": "dune-part-three-timothee-chalamet"
+      },
+      {
+        "slug": "dune-part-three-zendaya",
+        "file": "dune-part-three-zendaya"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "dune-part-three-alia",
+        "file": "dune-part-three-alia"
+      },
+      {
+        "slug": "dune-part-three-bijaz",
+        "file": "dune-part-three-bijaz"
+      },
+      {
+        "slug": "dune-part-three-edric",
+        "file": "dune-part-three-edric"
+      },
+      {
+        "slug": "dune-part-three-guild-navigator",
+        "file": "dune-part-three-guild-navigator"
+      },
+      {
+        "slug": "dune-part-three-hayt",
+        "file": "dune-part-three-hayt"
+      },
+      {
+        "slug": "dune-part-three-main-character",
+        "file": "dune-part-three-main-character"
+      },
+      {
+        "slug": "dune-part-three-paul-atreides",
+        "file": "dune-part-three-paul-atreides"
+      },
+      {
+        "slug": "dune-part-three-scytale",
+        "file": "dune-part-three-scytale"
+      }
+    ],
+    "release": [
+      {
+        "slug": "dune-part-three-date",
+        "file": "dune-part-three-date"
+      },
+      {
+        "slug": "dune-part-three-expected-release-date",
+        "file": "dune-part-three-expected-release-date"
+      },
+      {
+        "slug": "dune-part-three-india-release-date",
+        "file": "dune-part-three-india-release-date"
+      },
+      {
+        "slug": "dune-part-three-release-date-philippines",
+        "file": "dune-part-three-release-date-philippines"
+      },
+      {
+        "slug": "dune-part-three-release-date",
+        "file": "dune-part-three-release-date"
+      },
+      {
+        "slug": "dune-part-three-release",
+        "file": "dune-part-three-release"
+      },
+      {
+        "slug": "dune-part-three-uk-release-date",
+        "file": "dune-part-three-uk-release-date"
+      },
+      {
+        "slug": "dune-part-three-us-release-date",
+        "file": "dune-part-three-us-release-date"
+      }
+    ],
+    "story": [
+      {
+        "slug": "dune-part-three-about",
+        "file": "dune-part-three-about"
+      },
+      {
+        "slug": "dune-part-three-book",
+        "file": "dune-part-three-book"
+      },
+      {
+        "slug": "dune-part-three-dune-messiah",
+        "file": "dune-part-three-dune-messiah"
+      },
+      {
+        "slug": "dune-part-three-ending",
+        "file": "dune-part-three-ending"
+      },
+      {
+        "slug": "dune-part-three-plot",
+        "file": "dune-part-three-plot"
+      },
+      {
+        "slug": "dune-part-three-story",
+        "file": "dune-part-three-story"
+      },
+      {
+        "slug": "dune-part-three-synopsis",
+        "file": "dune-part-three-synopsis"
+      },
+      {
+        "slug": "dune-part-three-time-jump",
+        "file": "dune-part-three-time-jump"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "dune-part-three-official-teaser",
+        "file": "dune-part-three-official-teaser"
+      },
+      {
+        "slug": "dune-part-three-official-trailer",
+        "file": "dune-part-three-official-trailer"
+      },
+      {
+        "slug": "dune-part-three-teaser-trailer",
+        "file": "dune-part-three-teaser-trailer"
+      },
+      {
+        "slug": "dune-part-three-trailer-breakdown",
+        "file": "dune-part-three-trailer-breakdown"
+      },
+      {
+        "slug": "dune-part-three-trailer-reaction",
+        "file": "dune-part-three-trailer-reaction"
+      },
+      {
+        "slug": "dune-part-three-trailer-release-date",
+        "file": "dune-part-three-trailer-release-date"
+      },
+      {
+        "slug": "dune-part-three-trailer-youtube",
+        "file": "dune-part-three-trailer-youtube"
+      },
+      {
+        "slug": "dune-part-three-trailer",
+        "file": "dune-part-three-trailer"
+      }
+    ]
+  },
+  "fr": {
+    "cast": [
+      {
+        "slug": "dune-part-three-actors",
+        "file": "dune-part-three-actors"
+      },
+      {
+        "slug": "dune-part-three-anya-taylor-joy",
+        "file": "dune-part-three-anya-taylor-joy"
+      },
+      {
+        "slug": "dune-part-three-cast",
+        "file": "dune-part-three-cast"
+      },
+      {
+        "slug": "dune-part-three-full-cast",
+        "file": "dune-part-three-full-cast"
+      },
+      {
+        "slug": "dune-part-three-jason-momoa",
+        "file": "dune-part-three-jason-momoa"
+      },
+      {
+        "slug": "dune-part-three-robert-pattinson",
+        "file": "dune-part-three-robert-pattinson"
+      },
+      {
+        "slug": "dune-part-three-timothee-chalamet",
+        "file": "dune-part-three-timothee-chalamet"
+      },
+      {
+        "slug": "dune-part-three-zendaya",
+        "file": "dune-part-three-zendaya"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "dune-part-three-alia",
+        "file": "dune-part-three-alia"
+      },
+      {
+        "slug": "dune-part-three-bijaz",
+        "file": "dune-part-three-bijaz"
+      },
+      {
+        "slug": "dune-part-three-edric",
+        "file": "dune-part-three-edric"
+      },
+      {
+        "slug": "dune-part-three-guild-navigator",
+        "file": "dune-part-three-guild-navigator"
+      },
+      {
+        "slug": "dune-part-three-hayt",
+        "file": "dune-part-three-hayt"
+      },
+      {
+        "slug": "dune-part-three-main-character",
+        "file": "dune-part-three-main-character"
+      },
+      {
+        "slug": "dune-part-three-paul-atreides",
+        "file": "dune-part-three-paul-atreides"
+      },
+      {
+        "slug": "dune-part-three-scytale",
+        "file": "dune-part-three-scytale"
+      }
+    ],
+    "release": [
+      {
+        "slug": "dune-part-three-date",
+        "file": "dune-part-three-date"
+      },
+      {
+        "slug": "dune-part-three-expected-release-date",
+        "file": "dune-part-three-expected-release-date"
+      },
+      {
+        "slug": "dune-part-three-india-release-date",
+        "file": "dune-part-three-india-release-date"
+      },
+      {
+        "slug": "dune-part-three-release-date-philippines",
+        "file": "dune-part-three-release-date-philippines"
+      },
+      {
+        "slug": "dune-part-three-release-date",
+        "file": "dune-part-three-release-date"
+      },
+      {
+        "slug": "dune-part-three-release",
+        "file": "dune-part-three-release"
+      },
+      {
+        "slug": "dune-part-three-uk-release-date",
+        "file": "dune-part-three-uk-release-date"
+      },
+      {
+        "slug": "dune-part-three-us-release-date",
+        "file": "dune-part-three-us-release-date"
+      }
+    ],
+    "story": [
+      {
+        "slug": "dune-part-three-about",
+        "file": "dune-part-three-about"
+      },
+      {
+        "slug": "dune-part-three-book",
+        "file": "dune-part-three-book"
+      },
+      {
+        "slug": "dune-part-three-dune-messiah",
+        "file": "dune-part-three-dune-messiah"
+      },
+      {
+        "slug": "dune-part-three-ending",
+        "file": "dune-part-three-ending"
+      },
+      {
+        "slug": "dune-part-three-plot",
+        "file": "dune-part-three-plot"
+      },
+      {
+        "slug": "dune-part-three-story",
+        "file": "dune-part-three-story"
+      },
+      {
+        "slug": "dune-part-three-synopsis",
+        "file": "dune-part-three-synopsis"
+      },
+      {
+        "slug": "dune-part-three-time-jump",
+        "file": "dune-part-three-time-jump"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "dune-part-three-official-teaser",
+        "file": "dune-part-three-official-teaser"
+      },
+      {
+        "slug": "dune-part-three-official-trailer",
+        "file": "dune-part-three-official-trailer"
+      },
+      {
+        "slug": "dune-part-three-teaser-trailer",
+        "file": "dune-part-three-teaser-trailer"
+      },
+      {
+        "slug": "dune-part-three-trailer-breakdown",
+        "file": "dune-part-three-trailer-breakdown"
+      },
+      {
+        "slug": "dune-part-three-trailer-reaction",
+        "file": "dune-part-three-trailer-reaction"
+      },
+      {
+        "slug": "dune-part-three-trailer-release-date",
+        "file": "dune-part-three-trailer-release-date"
+      },
+      {
+        "slug": "dune-part-three-trailer-youtube",
+        "file": "dune-part-three-trailer-youtube"
+      },
+      {
+        "slug": "dune-part-three-trailer",
+        "file": "dune-part-three-trailer"
+      }
+    ]
+  },
+  "ja": {
+    "cast": [
+      {
+        "slug": "dune-part-three-actors",
+        "file": "dune-part-three-actors"
+      },
+      {
+        "slug": "dune-part-three-anya-taylor-joy",
+        "file": "dune-part-three-anya-taylor-joy"
+      },
+      {
+        "slug": "dune-part-three-cast",
+        "file": "dune-part-three-cast"
+      },
+      {
+        "slug": "dune-part-three-full-cast",
+        "file": "dune-part-three-full-cast"
+      },
+      {
+        "slug": "dune-part-three-jason-momoa",
+        "file": "dune-part-three-jason-momoa"
+      },
+      {
+        "slug": "dune-part-three-robert-pattinson",
+        "file": "dune-part-three-robert-pattinson"
+      },
+      {
+        "slug": "dune-part-three-timothee-chalamet",
+        "file": "dune-part-three-timothee-chalamet"
+      },
+      {
+        "slug": "dune-part-three-zendaya",
+        "file": "dune-part-three-zendaya"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "dune-part-three-alia",
+        "file": "dune-part-three-alia"
+      },
+      {
+        "slug": "dune-part-three-bijaz",
+        "file": "dune-part-three-bijaz"
+      },
+      {
+        "slug": "dune-part-three-edric",
+        "file": "dune-part-three-edric"
+      },
+      {
+        "slug": "dune-part-three-guild-navigator",
+        "file": "dune-part-three-guild-navigator"
+      },
+      {
+        "slug": "dune-part-three-hayt",
+        "file": "dune-part-three-hayt"
+      },
+      {
+        "slug": "dune-part-three-main-character",
+        "file": "dune-part-three-main-character"
+      },
+      {
+        "slug": "dune-part-three-paul-atreides",
+        "file": "dune-part-three-paul-atreides"
+      },
+      {
+        "slug": "dune-part-three-scytale",
+        "file": "dune-part-three-scytale"
+      }
+    ],
+    "release": [
+      {
+        "slug": "dune-part-three-date",
+        "file": "dune-part-three-date"
+      },
+      {
+        "slug": "dune-part-three-expected-release-date",
+        "file": "dune-part-three-expected-release-date"
+      },
+      {
+        "slug": "dune-part-three-india-release-date",
+        "file": "dune-part-three-india-release-date"
+      },
+      {
+        "slug": "dune-part-three-release-date-philippines",
+        "file": "dune-part-three-release-date-philippines"
+      },
+      {
+        "slug": "dune-part-three-release-date",
+        "file": "dune-part-three-release-date"
+      },
+      {
+        "slug": "dune-part-three-release",
+        "file": "dune-part-three-release"
+      },
+      {
+        "slug": "dune-part-three-uk-release-date",
+        "file": "dune-part-three-uk-release-date"
+      },
+      {
+        "slug": "dune-part-three-us-release-date",
+        "file": "dune-part-three-us-release-date"
+      }
+    ],
+    "story": [
+      {
+        "slug": "dune-part-three-about",
+        "file": "dune-part-three-about"
+      },
+      {
+        "slug": "dune-part-three-book",
+        "file": "dune-part-three-book"
+      },
+      {
+        "slug": "dune-part-three-dune-messiah",
+        "file": "dune-part-three-dune-messiah"
+      },
+      {
+        "slug": "dune-part-three-ending",
+        "file": "dune-part-three-ending"
+      },
+      {
+        "slug": "dune-part-three-plot",
+        "file": "dune-part-three-plot"
+      },
+      {
+        "slug": "dune-part-three-story",
+        "file": "dune-part-three-story"
+      },
+      {
+        "slug": "dune-part-three-synopsis",
+        "file": "dune-part-three-synopsis"
+      },
+      {
+        "slug": "dune-part-three-time-jump",
+        "file": "dune-part-three-time-jump"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "dune-part-three-official-teaser",
+        "file": "dune-part-three-official-teaser"
+      },
+      {
+        "slug": "dune-part-three-official-trailer",
+        "file": "dune-part-three-official-trailer"
+      },
+      {
+        "slug": "dune-part-three-teaser-trailer",
+        "file": "dune-part-three-teaser-trailer"
+      },
+      {
+        "slug": "dune-part-three-trailer-breakdown",
+        "file": "dune-part-three-trailer-breakdown"
+      },
+      {
+        "slug": "dune-part-three-trailer-reaction",
+        "file": "dune-part-three-trailer-reaction"
+      },
+      {
+        "slug": "dune-part-three-trailer-release-date",
+        "file": "dune-part-three-trailer-release-date"
+      },
+      {
+        "slug": "dune-part-three-trailer-youtube",
+        "file": "dune-part-three-trailer-youtube"
+      },
+      {
+        "slug": "dune-part-three-trailer",
+        "file": "dune-part-three-trailer"
+      }
+    ]
+  }
+}
