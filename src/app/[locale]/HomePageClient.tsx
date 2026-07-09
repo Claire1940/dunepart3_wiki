@@ -39,8 +39,8 @@ const LoadingPlaceholder = ({ height = "h-64" }: { height?: string }) => (
 );
 
 // Conditionally render text as a link or plain span.
-// moduleLinkMap is keyed to legacy content slugs that no longer exist, so linkData
-// is always undefined here and titles render as plain text (no internal links).
+// linkData comes from buildModuleLinkMap; while content/ has no matching articles,
+// linkData stays undefined and titles render as plain text (no internal links).
 function LinkedTitle({
   linkData,
   children,
@@ -611,7 +611,6 @@ export default function HomePageClient({
               </div>
             ))}
           </div>
-          <SourceLinks sources={t.modules.dunePart3PaulAndChani.sources} />
         </div>
       </section>
 
@@ -662,7 +661,6 @@ export default function HomePageClient({
               </div>
             ))}
           </div>
-          <SourceLinks sources={t.modules.dunePart3ImaxTickets.sources} />
         </div>
       </section>
 
@@ -702,7 +700,6 @@ export default function HomePageClient({
               </div>
             ))}
           </div>
-          <SourceLinks sources={t.modules.dunePart3Production.sources} />
         </div>
       </section>
 
@@ -755,7 +752,6 @@ export default function HomePageClient({
               </div>
             ))}
           </div>
-          <SourceLinks sources={t.modules.dunePart3WatchOrder.sources} />
         </div>
       </section>
 

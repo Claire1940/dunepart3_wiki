@@ -340,11 +340,6 @@
           "description": "Timothée Chalamet returns as Paul Atreides and Zendaya returns as Chani. Florence Pugh also returns as Princess Irulan, keeping the Paul, Chani, and Irulan tension central to the Part Three story.",
           "characters": ["Timothée Chalamet", "Zendaya", "Florence Pugh"]
         }
-      ],
-      "sources": [
-        { "label": "Warner Bros. Part Two", "url": "https://www.warnerbros.com/movies/dune-part-two" },
-        { "label": "People", "url": "https://people.com/timothee-chalamet-asks-forgiveness-in-new-dune-part-three-trailer-12014388" },
-        { "label": "DuneMovie.com", "url": "https://www.dunemovie.com/" }
       ]
     },
     "dunePart3ImaxTickets": {
@@ -382,11 +377,6 @@
           "bestFor": "Users checking ticket-page metadata before release",
           "whereToCheck": "Fandango movie overview"
         }
-      ],
-      "sources": [
-        { "label": "IMAX Movie Page", "url": "https://www.imax.com/movie/dune-part-three" },
-        { "label": "IMAX 70mm News", "url": "https://www.imax.com/news/dune-part-three-in-imax-70mm-film" },
-        { "label": "Fandango IMAX 70mm", "url": "https://www.fandango.com/dune-part-three-the-imax-70mm-experience-2026-245188/movie-overview" }
       ]
     },
     "dunePart3Production": {
@@ -424,11 +414,6 @@
           "description": "Warner Bros. lists Dune: Part Three for a December 18, 2026 theatrical release. The official movie site promotes it as only in theaters on 12.18.",
           "keyPeople": ["Warner Bros.", "Legendary"]
         }
-      ],
-      "sources": [
-        { "label": "Warner Bros.", "url": "https://www.warnerbros.com/movies/dune-part-three" },
-        { "label": "DuneMovie.com", "url": "https://www.dunemovie.com/" },
-        { "label": "Variety", "url": "https://variety.com/2025/film/news/dune-3-title-imax-cameras-1236448953/" }
       ]
     },
     "dunePart3WatchOrder": {
@@ -471,11 +456,6 @@
           "whyItMatters": "Dune: Part Three is scheduled for December 18, 2026 and continues into the Dune Messiah story, focusing on Paul's rule and the consequences of the power he claimed.",
           "recapFocus": ["Paul as emperor", "Chani conflict", "Dune Messiah storyline"]
         }
-      ],
-      "sources": [
-        { "label": "Warner Bros. Dune", "url": "https://www.warnerbros.com/movies/dune" },
-        { "label": "Warner Bros. Part Two", "url": "https://www.warnerbros.com/movies/dune-part-two" },
-        { "label": "Dune 2-Film Collection", "url": "https://www.warnerbros.com/movies/dune-2-film-collection" }
       ]
     }
   },
