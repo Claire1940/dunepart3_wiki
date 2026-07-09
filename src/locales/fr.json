@@ -1,9 +1,721 @@
 {
+  "seo": {
+    "home": {
+      "title": "Dune Part Three - Sortie, casting et bande-annonce",
+      "description": "Le guide complet de Dune Part Three couvre la date de sortie, les actualités sur la bande-annonce officielle, la distribution complète, l'histoire, les détails IMAX, les personnages et les liens avec Dune Messiah pour les cinéphiles.",
+      "keywords": "Dune Part Three, Dune 3, date de sortie, casting, bande-annonce, IMAX, Dune Messiah",
+      "ogTitle": "Dune Part Three - Sortie, casting et bande-annonce",
+      "ogDescription": "Le guide complet de Dune Part Three couvre la date de sortie, les actualités sur la bande-annonce officielle, la distribution complète, l'histoire, les détails IMAX, les personnages et les liens avec Dune Messiah pour les cinéphiles.",
+      "twitterTitle": "Dune Part Three - Sortie, casting et bande-annonce",
+      "twitterDescription": "Guide complet de Dune Part Three : date de sortie, bande-annonce officielle, distribution complète, histoire, détails IMAX et liens avec Dune Messiah pour les cinéphiles."
+    }
+  },
   "nav": {
     "release": "Sortie",
     "trailer": "Bande-annonce",
     "cast": "Distribution",
     "story": "Histoire",
     "characters": "Personnages"
+  },
+  "common": {
+    "home": "Accueil",
+    "more": "Plus",
+    "playNow": "Jouer sur Steam",
+    "switchLanguage": "Changer de langue",
+    "switchTheme": "Changer de thème",
+    "lightMode": "Mode clair",
+    "darkMode": "Mode sombre",
+    "notFound": "Page non trouvée",
+    "notFoundDescription": "La page que vous recherchez n'existe pas.",
+    "backToHome": "Retour à l'accueil",
+    "relatedArticles": "Articles connexes",
+    "readMore": "Lire la suite",
+    "articlesComingSoon": "Articles à venir"
+  },
+  "hero": {
+    "badge": "Finale épique de science-fiction",
+    "title": "Wiki Dune Part 3",
+    "description": "Découvrez la date de sortie de Dune Part Three, la bande-annonce officielle, la distribution, l'histoire, les détails IMAX, les personnages et les liens avec Dune Messiah dans un guide de film clair.",
+    "getFreeCodesCTA": "Regarder la bande-annonce",
+    "playOnSteamCTA": "Recevoir les alertes billetterie",
+    "stats": {
+      "stat1": {
+        "value": "18 déc. 2026",
+        "label": "Sortie en salles"
+      },
+      "stat2": {
+        "value": "IMAX",
+        "label": "Format premium"
+      },
+      "stat3": {
+        "value": "Dune Messiah",
+        "label": "Roman d'origine"
+      },
+      "stat4": {
+        "value": "41M+",
+        "label": "Vues du teaser"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Dossier sur le film Dune Part 3",
+    "description": "La conclusion épique de la trilogie Dune par Denis Villeneuve, basée sur Dune Messiah de Frank Herbert, sortira en salles et en IMAX le 18 décembre 2026."
+  },
+  "tools": {
+    "title": "Dune Part 3",
+    "titleHighlight": "Guide",
+    "subtitle": "Tout ce qu'il faut savoir sur Dune : Troisième Partie — date de sortie, bande-annonce, casting, histoire, IMAX et ordre de visionnage.",
+    "cards": [
+      {
+        "icon": "Clock",
+        "title": "Date de sortie de Dune Part 3",
+        "description": "Date de sortie en salles, cinémas et centres de mises à jour officiels"
+      },
+      {
+        "icon": "Eye",
+        "title": "Bande-annonce de Dune Part 3",
+        "description": "Teaser officiel, bande-annonce complète et images de l'événement IMAX"
+      },
+      {
+        "icon": "Users",
+        "title": "Casting de Dune Part 3",
+        "description": "Acteurs de retour, nouvelles stars et rôles confirmés"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Intrigue de Dune Part 3",
+        "description": "Guide de l'histoire (pauvre en spoilers) et liens avec Dune Messiah"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Dune Part 3 : Paul et Chani",
+        "description": "Le conflit central de leur relation après la Deuxième Partie"
+      },
+      {
+        "icon": "Star",
+        "title": "Billets IMAX pour Dune Part 3",
+        "description": "IMAX, 70mm, horaires des séances et billetteries"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Production de Dune Part 3",
+        "description": "Réalisateur, scénaristes, équipe et calendrier de tournage"
+      },
+      {
+        "icon": "ArrowRight",
+        "title": "Ordre de visionnage de Dune Part 3",
+        "description": "Ordre de rattrapage avant l'arrivée de la Troisième Partie"
+      }
+    ]
+  },
+  "modules": {
+    "dunePart3ReleaseDate": {
+      "title": "Date de sortie et cinémas pour Dune Part 3",
+      "displayType": "Tableau",
+      "intro": "Les informations essentielles sur la sortie de Dune : Troisième Partie, incluant la date confirmée, le statut en salles, les informations du studio et où suivre les mises à jour de la billetterie ou de la campagne.",
+      "items": [
+        {
+          "label": "Date de sortie au cinéma",
+          "value": "18 décembre 2026",
+          "detail": "Warner Bros. répertorie le film avec une date de sortie en salles au 18 décembre 2026."
+        },
+        {
+          "label": "Format de sortie",
+          "value": "Uniquement au cinéma",
+          "detail": "Le site officiel du film présente Dune : Troisième Partie comme une sortie exclusivement au cinéma."
+        },
+        {
+          "label": "Distributeur",
+          "value": "Warner Bros.",
+          "detail": "Legendary indique que Warner Bros. est le distributeur de Dune : Troisième Partie."
+        },
+        {
+          "label": "Studio",
+          "value": "Legendary Pictures et Warner Bros.",
+          "detail": "La campagne officielle est présentée par Legendary et Warner Bros. Entertainment."
+        },
+        {
+          "label": "Réalisateur",
+          "value": "Denis Villeneuve",
+          "detail": "Villeneuve revient pour réaliser le troisième film de sa trilogie Dune."
+        },
+        {
+          "label": "Scénario",
+          "value": "Denis Villeneuve et Brian K. Vaughan",
+          "detail": "Le site officiel présente Villeneuve et Brian K. Vaughan comme scénaristes."
+        },
+        {
+          "label": "Œuvre originale",
+          "value": "Dune Messiah de Frank Herbert",
+          "detail": "Le film est basé sur le deuxième roman Dune de Frank Herbert, Dune Messiah."
+        },
+        {
+          "label": "Hub d'actualités officiel",
+          "value": "DuneMovie.com",
+          "detail": "Le site officiel comprend l'accès à la bande-annonce, l'inscription à Dune Insider et les réseaux sociaux."
+        }
+      ]
+    },
+    "dunePart3Trailer": {
+      "title": "Bande-annonce et images officielles de Dune Part 3",
+      "displayType": "video-cards",
+      "intro": "Les principaux points de contact vidéo officiels pour Dune: Part Three, afin que les spectateurs puissent rapidement trouver la bande-annonce la plus récente, le teaser précédent et les images de l'événement sans avoir à chercher parmi les montages de fans ou les bandes-annonces concepts.",
+      "items": [
+        {
+          "title": "Bande-annonce officielle de Dune: Part Three",
+          "type": "Bande-annonce officielle",
+          "url": "https://www.youtube.com/watch?v=NdvqHc56lE0",
+          "releaseWindow": "Juillet 2026",
+          "focus": "La dernière bande-annonce met en avant Paul Atreides après son accession au pouvoir, Chani l'affrontant, le retour de Duncan Idaho et le personnage de Scytale incarné par Robert Pattinson."
+        },
+        {
+          "title": "Teaser officiel de Dune: Part Three",
+          "type": "Teaser officiel",
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY",
+          "releaseWindow": "Mars 2026",
+          "focus": "Le teaser présente le film comme la conclusion épique de la trilogie de Denis Villeneuve et oriente les spectateurs vers la sortie en salles du 18 décembre."
+        },
+        {
+          "title": "Événement mondial IMAX pour les fans",
+          "type": "Événement de présentation d'images exclusives",
+          "url": "https://www.imax.com/global-imax-fan-event",
+          "releaseWindow": "8 juillet 2026",
+          "focus": "L'événement IMAX a fait la promotion d'un aperçu exclusif de la bande-annonce, d'images spéciales de Dune: Part Three et d'une séance de questions-réponses en direct avec Denis Villeneuve."
+        },
+        {
+          "title": "Hub vidéo officiel du film Dune",
+          "type": "Section vidéo du site officiel",
+          "url": "https://www.dunemovie.com/",
+          "releaseWindow": "En cours",
+          "focus": "Le site officiel regroupe au même endroit la campagne de la bande-annonce, l'inscription à Dune Insider et les liens vers les réseaux sociaux."
+        }
+      ],
+      "sources": [
+        {
+          "label": "DuneMovie.com",
+          "url": "https://www.dunemovie.com/"
+        },
+        {
+          "label": "Teaser YouTube",
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
+        },
+        {
+          "label": "Bande-annonce YouTube",
+          "url": "https://www.youtube.com/watch?v=NdvqHc56lE0"
+        },
+        {
+          "label": "Événement fan IMAX",
+          "url": "https://www.imax.com/global-imax-fan-event"
+        }
+      ]
+    },
+    "dunePart3Cast": {
+      "title": "Distribution et personnages de Dune Part 3",
+      "displayType": "card-list",
+      "intro": "Les principaux acteurs et rôles à connaître avant Dune: Part Three, avec le retour des acteurs principaux, des acteurs politiques majeurs et de nouvelles figures de l'histoire de Dune Messiah.",
+      "items": [
+        {
+          "actor": "Timothée Chalamet",
+          "character": "Paul Atreides",
+          "roleSummary": "Paul revient en tant que figure centrale de l'histoire après être devenu l'empereur de l'univers connu."
+        },
+        {
+          "actor": "Zendaya",
+          "character": "Chani",
+          "roleSummary": "Chani revient en tant que guerrière Fremen et ancienne amante de Paul, la bande-annonce la plaçant en conflit émotionnel direct avec Paul."
+        },
+        {
+          "actor": "Jason Momoa",
+          "character": "Duncan Idaho",
+          "roleSummary": "Duncan Idaho revient dans le troisième film malgré sa mort dans le premier film Dune, devenant l'une des plus grandes accroches de personnage pour les lecteurs de Dune Messiah."
+        },
+        {
+          "actor": "Florence Pugh",
+          "character": "Princesse Irulan",
+          "roleSummary": "La princesse Irulan revient en tant qu'épouse de Paul et fille de l'empereur détrôné Shaddam IV."
+        },
+        {
+          "actor": "Rebecca Ferguson",
+          "character": "Lady Jessica",
+          "roleSummary": "Lady Jessica revient en tant que mère de Paul et figure majeure du Bene Gesserit dans la lignée des Atreides."
+        },
+        {
+          "actor": "Anya Taylor-Joy",
+          "character": "Alia Atreides",
+          "roleSummary": "Alia Atreides apparaît en tant que sœur de Paul après le caméo d'Anya Taylor-Joy dans Dune: Part Two."
+        },
+        {
+          "actor": "Robert Pattinson",
+          "character": "Scytale",
+          "roleSummary": "Scytale entre dans l'histoire en tant qu'antagoniste aux cheveux blancs avec un complot contre le règne de Paul."
+        },
+        {
+          "actor": "Javier Bardem",
+          "character": "Stilgar",
+          "roleSummary": "Stilgar revient en tant que leader Fremen clé lié à l'ascension de Paul et au mouvement religieux Fremen."
+        },
+        {
+          "actor": "Josh Brolin",
+          "character": "Gurney Halleck",
+          "roleSummary": "Gurney Halleck revient en tant que l'un des importants alliés Atreides survivants des films précédents."
+        },
+        {
+          "actor": "Nakoa-Wolf Momoa",
+          "character": "Leto II",
+          "roleSummary": "Leto II est présenté comme le fils de Paul Atreides et de Chani."
+        },
+        {
+          "actor": "Ida Brooke",
+          "character": "Ghanima",
+          "roleSummary": "Ghanima est présentée comme la sœur jumelle de Leto II et la fille de Paul et Chani."
+        },
+        {
+          "actor": "Isaach De Bankolé",
+          "character": "Farok",
+          "roleSummary": "Farok rejoint le film en tant que personnage lié aux Fremen dans l'intrigue étendue de Dune Messiah."
+        }
+      ],
+      "sources": [
+        {
+          "label": "DuneMovie.com",
+          "url": "https://www.dunemovie.com/"
+        },
+        {
+          "label": "People",
+          "url": "https://people.com/timothee-chalamet-zendaya-robert-pattinson-wow-in-dune-part-three-trailer-11814971"
+        },
+        {
+          "label": "Space.com",
+          "url": "https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-dune-messiah"
+        }
+      ]
+    },
+    "dunePart3Plot": {
+      "title": "Intrigue de Dune Part 3 et histoire de Dune Messiah",
+      "displayType": "accordéon",
+      "intro": "Un guide de l'histoire avec peu de spoilers qui explique le principe de base de Dune : Troisième Partie, séparant le cadre officiel du film du contexte plus large du livre Dune Messiah pour les spectateurs qui veulent l'essentiel avant le visionnage.",
+      "items": [
+        {
+          "question": "Sur quel livre est basé Dune Part 3 ?",
+          "answer": "Dune : Troisième Partie est basé sur Dune Messiah, le deuxième roman Dune de Frank Herbert. Le site officiel du film décrit le long-métrage comme la conclusion épique de la trilogie de Denis Villeneuve.",
+          "spoilerLevel": "faible"
+        },
+        {
+          "question": "Où commence l'histoire de Dune Part 3 ?",
+          "answer": "L'histoire suit Paul Atreides après les événements de Dune : Deuxième Partie, alors que Paul règne en tant qu'empereur et fait face aux conséquences de ses choix, de son pouvoir et de la guerre liée à son nom.",
+          "spoilerLevel": "faible"
+        },
+        {
+          "question": "Quel est le conflit principal de Paul dans Dune Part 3 ?",
+          "answer": "Paul n'est plus seulement un héros montant. L'histoire se concentre sur le coût de son règne, le mouvement religieux qui l'entoure, ses ennemis politiques et le futur qu'il peine à contrôler.",
+          "spoilerLevel": "faible"
+        },
+        {
+          "question": "Quelle est la place de Chani et de la Princesse Irulan dans Dune Part 3 ?",
+          "answer": "Chani reste au cœur de l'histoire de Paul sur le plan émotionnel, tandis que la Princesse Irulan apporte une tension politique à travers son mariage avec Paul et son lien avec la maison impériale déchue.",
+          "spoilerLevel": "faible"
+        },
+        {
+          "question": "Qui est Scytale dans Dune Part 3 ?",
+          "answer": "Scytale est présenté comme un nouvel antagoniste interprété par Robert Pattinson. La bande-annonce et la couverture médiatique le présentent comme faisant partie de la menace contre le règne de Paul.",
+          "spoilerLevel": "moyen"
+        },
+        {
+          "question": "Pourquoi Dune Messiah est-il important pour Dune Part 3 ?",
+          "answer": "Dune Messiah poursuit l'histoire de Paul en tant que Muad'Dib et empereur de l'univers connu. Le livre se concentre sur le pouvoir, le culte, le complot et le danger de traiter Paul comme un sauveur héroïque.",
+          "spoilerLevel": "moyen"
+        }
+      ],
+      "sources": [
+        {
+          "label": "DuneMovie.com",
+          "url": "https://www.dunemovie.com/"
+        },
+        {
+          "label": "Penguin Random House",
+          "url": "https://www.penguinrandomhouse.com/books/342568/dune-messiah-deluxe-hardcover-edition-by-frank-herbert/"
+        },
+        {
+          "label": "Space.com",
+          "url": "https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-dune-messiah"
+        }
+      ]
+    },
+    "dunePart3PaulAndChani": {
+      "title": "Guide sur Paul et Chani dans Dune Part 3",
+      "displayType": "chronologie-histoire",
+      "intro": "Dune : Troisième Partie poursuit les retombées émotionnelles de l'ascension au pouvoir de Paul. Paul porte désormais le poids de l'empire, de la prophétie, de la guerre et de la famille, tandis que Chani représente le défi le plus clair face aux choix qu'il a faits à la fin de Dune : Deuxième Partie.",
+      "items": [
+        {
+          "label": "Dune : Deuxième Partie - La Fin",
+          "title": "Paul choisit le pouvoir et Chani s'éloigne",
+          "description": "Dune : Deuxième Partie se termine avec Paul prenant le contrôle du mouvement Fremen, défiant l'Empereur et choisissant la voie d'un mariage politique avec la Princesse Irulan. Chani part dans le désert, faisant de leur confiance brisée le point de départ émotionnel du prochain film.",
+          "characters": [
+            "Paul Atreides",
+            "Chani",
+            "Princesse Irulan"
+          ]
+        },
+        {
+          "label": "Mise en place de la Troisième Partie",
+          "title": "Paul règne, mais la paix n'est pas simple",
+          "description": "Dune : Troisième Partie adapte Dune Messiah de Frank Herbert et s'intéresse au règne de Paul en tant qu'empereur. L'histoire se concentre sur les conséquences de son règne, les personnes qui veulent le détruire et le coût personnel pour devenir une figure politique messianique.",
+          "characters": [
+            "Paul Atreides",
+            "Lady Jessica",
+            "Scytale"
+          ]
+        },
+        {
+          "label": "Conflit de la bande-annonce",
+          "title": "Chani confronte Paul au sujet d'une promesse brisée",
+          "description": "La bande-annonce officielle place la dispute entre Paul et Chani au centre de l'histoire. Chani reproche à Paul de prendre le pouvoir en son propre nom, tandis que Paul semble piégé entre la protection de sa famille et le contrôle du futur violent qu'il a contribué à créer.",
+          "characters": [
+            "Paul Atreides",
+            "Chani"
+          ]
+        },
+        {
+          "label": "Enjeux familiaux",
+          "title": "La future famille de Paul et Chani fait désormais partie de l'histoire",
+          "description": "Les informations actuelles sur la distribution lient le prochain film aux enfants de Paul et Chani, Leto II et Ghanima. Nakoa-Wolf Momoa est annoncé dans le rôle de Leto II, tandis qu'Ida Brooke est annoncée dans celui de Ghanima.",
+          "characters": [
+            "Leto II",
+            "Ghanima",
+            "Paul Atreides",
+            "Chani"
+          ]
+        },
+        {
+          "label": "Focus sur la distribution",
+          "title": "Timothée Chalamet et Zendaya reviennent en tant que couple émotionnel principal",
+          "description": "Timothée Chalamet revient dans le rôle de Paul Atreides et Zendaya dans celui de Chani. Florence Pugh revient également dans le rôle de la Princesse Irulan, maintenant la tension entre Paul, Chani et Irulan au centre de l'histoire de la Troisième Partie.",
+          "characters": [
+            "Timothée Chalamet",
+            "Zendaya",
+            "Florence Pugh"
+          ]
+        }
+      ]
+    },
+    "dunePart3ImaxTickets": {
+      "title": "Billets pour Dune Part 3 en IMAX et 70mm",
+      "displayType": "tableau",
+      "intro": "Dune : Troisième Partie est conçu comme un événement cinématographique majeur, avec des pages IMAX et IMAX 70mm déjà actives. La date de sortie officielle est le 18 décembre 2026, Warner Bros. annonçant le film uniquement au cinéma.",
+      "items": [
+        {
+          "format": "Sortie en salles",
+          "status": "Uniquement au cinéma le 18 décembre 2026",
+          "bestFor": "Le grand public vérifiant la date de sortie principale",
+          "whereToCheck": "Warner Bros. et le site officiel du film Dune"
+        },
+        {
+          "format": "IMAX",
+          "status": "La page officielle IMAX du film est en ligne",
+          "bestFor": "Les fans qui veulent la présentation sur le plus grand écran premium",
+          "whereToCheck": "Page du film IMAX et programmation des cinémas IMAX locaux"
+        },
+        {
+          "format": "IMAX 70mm",
+          "status": "Fandango annonce Dune: Part Three - The IMAX 70MM Experience pour une sortie le 18 décembre",
+          "bestFor": "Les fans à la recherche de projections premium dans un format argentique rare",
+          "whereToCheck": "Page d'annonce de l'IMAX 70mm et page Fandango IMAX 70mm"
+        },
+        {
+          "format": "Séances locales",
+          "status": "Les horaires des séances dépendent du cinéma et de la région",
+          "bestFor": "Trouver des projections à proximité après la mise à jour des programmations locales",
+          "whereToCheck": "Pages de Fandango, d'IMAX et des cinémas locaux"
+        },
+        {
+          "format": "Classification",
+          "status": "Fandango liste actuellement la page IMAX 70mm comme non classée (NR)",
+          "bestFor": "Utilisateurs vérifiant les métadonnées de la page de billetterie avant la sortie",
+          "whereToCheck": "Présentation du film sur Fandango"
+        }
+      ]
+    },
+    "dunePart3Production": {
+      "title": "Production et tournage de Dune Part 3",
+      "displayType": "chronologie",
+      "intro": "Dune: Part Three est réalisé par Denis Villeneuve et écrit par Villeneuve avec Brian K. Vaughan. Le film est basé sur Dune Messiah de Frank Herbert et est présenté par le site officiel comme la conclusion épique de la trilogie de Villeneuve.",
+      "items": [
+        {
+          "date": "2025",
+          "title": "La production progresse sous la direction de Denis Villeneuve",
+          "description": "Le troisième film poursuit l'adaptation de Dune par Villeneuve après Dune et Dune: Part Two. Les informations actuelles sur la production situent le tournage en 2025, notamment à Budapest et dans le désert.",
+          "keyPeople": [
+            "Denis Villeneuve"
+          ]
+        },
+        {
+          "date": "17 mars 2026",
+          "title": "Sortie de la bande-annonce teaser officielle",
+          "description": "Warner Bros. et Legendary ont partagé la première bande-annonce teaser, offrant au public un premier aperçu du règne de Paul, du rôle de Chani et de la direction plus sombre de Dune Messiah.",
+          "keyPeople": [
+            "Timothée Chalamet",
+            "Zendaya",
+            "Denis Villeneuve"
+          ]
+        },
+        {
+          "date": "8 juillet 2026",
+          "title": "Lancement de la bande-annonce officielle lors d'un événement mondial IMAX pour les fans",
+          "description": "La bande-annonce officielle est sortie dans le cadre d'un événement pour les fans, avec des apparitions de Timothée Chalamet et Denis Villeneuve. La bande-annonce met en avant l'action, la tension politique et le conflit entre Paul et Chani.",
+          "keyPeople": [
+            "Timothée Chalamet",
+            "Denis Villeneuve"
+          ]
+        },
+        {
+          "date": "Équipe créative",
+          "title": "Nouveaux membres et membres de retour de l'équipe principale",
+          "description": "Denis Villeneuve réalise et coécrit le film avec Brian K. Vaughan. Hans Zimmer revient pour la musique, Joe Walker pour le montage, Patric Vermette pour les décors et Linus Sandgren assure la direction de la photographie.",
+          "keyPeople": [
+            "Denis Villeneuve",
+            "Brian K. Vaughan",
+            "Hans Zimmer",
+            "Joe Walker",
+            "Patric Vermette",
+            "Linus Sandgren"
+          ]
+        },
+        {
+          "date": "18 décembre 2026",
+          "title": "Date de sortie en salles",
+          "description": "Warner Bros. annonce la sortie en salles de Dune: Part Three pour le 18 décembre 2026. Le site officiel du film en fait la promotion avec une sortie exclusivement au cinéma le 18/12.",
+          "keyPeople": [
+            "Warner Bros.",
+            "Legendary"
+          ]
+        }
+      ]
+    },
+    "dunePart3WatchOrder": {
+      "title": "Ordre de visionnage et récapitulatif de Dune Part 3",
+      "displayType": "étape par étape",
+      "intro": "Le moyen le plus simple de se préparer à Dune: Part Three est de regarder d'abord l'adaptation en deux films de Denis Villeneuve : Dune sorti en 2021, puis Dune: Part Two sorti en 2024. Dune: Part Three s'inscrit dans la continuité de ces films et adapte Dune Messiah.",
+      "items": [
+        {
+          "step": 1,
+          "title": "Regarder Dune",
+          "year": "2021",
+          "whyItMatters": "Ce film présente Paul Atreides, la Maison Atreides, Arrakis, les Fremen, l'épice et le piège politique qui détruit l'ancienne vie de Paul.",
+          "recapFocus": [
+            "Paul arrive sur Arrakis",
+            "La chute de la Maison Atreides",
+            "Paul commence son parcours parmi les Fremen"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Regarder Dune: Part Two",
+          "year": "2024",
+          "whyItMatters": "Ce film achève l'arc cinématographique principal du premier livre et montre l'ascension au pouvoir de Paul, sa relation avec Chani, la guerre des Fremen et la fin qui prépare le terrain pour le troisième volet.",
+          "recapFocus": [
+            "Paul devient Muad'Dib",
+            "Chani perd confiance en Paul",
+            "La princesse Irulan s'inscrit dans l'avenir politique de Paul"
+          ]
+        },
+        {
+          "step": 3,
+          "title": "Utilisez la collection Dune de 2 films pour le parcours de rattrapage le plus court",
+          "year": "Collection",
+          "whyItMatters": "Warner Bros. propose une collection Dune de 2 films pour les spectateurs qui souhaitent voir les deux films principaux ensemble avant le troisième volet.",
+          "recapFocus": [
+            "Dune",
+            "Dune: Part Two",
+            "Chronologie principale des films de Villeneuve"
+          ]
+        },
+        {
+          "step": 4,
+          "title": "Facultatif : Regarder Dune: Prophecy pour un contexte plus large de la franchise",
+          "year": "Facultatif",
+          "whyItMatters": "La série préquelle n'est pas requise pour comprendre l'histoire de Paul et Chani dans ce troisième volet, mais elle peut aider les spectateurs à en découvrir davantage sur le Bene Gesserit et l'univers étendu de Dune.",
+          "recapFocus": [
+            "Contexte du Bene Gesserit",
+            "Origines de l'univers de Dune",
+            "Éléments d'histoire facultatifs"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "Regarder ensuite Dune: Part Three",
+          "year": "2026",
+          "whyItMatters": "La sortie de Dune: Part Three est prévue pour le 18 décembre 2026 et s'inscrit dans la continuité de l'histoire de Dune Messiah, en se concentrant sur le règne de Paul et les conséquences du pouvoir qu'il a revendiqué.",
+          "recapFocus": [
+            "Paul en tant qu'empereur",
+            "Le conflit avec Chani",
+            "L'intrigue de Dune Messiah"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Dune Part 3",
+    "titleHighlight": "FAQ",
+    "subtitle": "Questions fréquemment posées sur la sortie, la distribution, l'histoire et la sortie IMAX de Dune: Part Three.",
+    "questions": [
+      {
+        "question": "Quelle est la date de sortie de Dune Part 3 ?",
+        "answer": "La sortie en salles de Dune: Part Three est prévue pour le 18 décembre 2026, Warner Bros. annonçant le film uniquement au cinéma."
+      },
+      {
+        "question": "De quel livre s'inspire Dune Part 3 ?",
+        "answer": "Dune: Part Three est adapté de Dune Messiah, le deuxième roman de Dune de Frank Herbert, et le site officiel le décrit comme la conclusion épique de la trilogie de Denis Villeneuve."
+      },
+      {
+        "question": "Qui réalise Dune Part 3 ?",
+        "answer": "Denis Villeneuve revient pour réaliser Dune: Part Three, co-écrivant le scénario avec Brian K. Vaughan et concluant sa trilogie Dune."
+      },
+      {
+        "question": "Qui fait partie de la distribution de Dune Part 3 ?",
+        "answer": "La distribution de Dune: Part Three comprend Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Anya Taylor-Joy, Javier Bardem, Josh Brolin et Robert Pattinson dans le rôle de Scytale."
+      },
+      {
+        "question": "Est-ce que Dune Part 3 sortira en IMAX ?",
+        "answer": "Oui. Dune: Part Three est conçu comme un événement cinématographique majeur, avec des pages IMAX et IMAX 70mm déjà en ligne sur IMAX et Fandango avant la sortie du 18 décembre."
+      },
+      {
+        "question": "Faut-il regarder Dune et Dune Part Two avant Dune Part 3 ?",
+        "answer": "Oui. Regardez Dune (2021) puis Dune: Part Two (2024) avant Dune: Part Three, car le troisième film adapte Dune Messiah et poursuit l'histoire de Paul Atreides après son accession au pouvoir."
+      },
+      {
+        "question": "Qui incarne Scytale dans Dune Part 3 ?",
+        "answer": "Robert Pattinson rejoint Dune: Part Three dans le rôle de Scytale, un nouvel antagoniste de l'intrigue de Dune Messiah qui complote contre le règne de Paul."
+      },
+      {
+        "question": "Où puis-je regarder la bande-annonce de Dune Part 3 ?",
+        "answer": "Le teaser officiel et la bande-annonce complète de Dune: Part Three sont disponibles sur YouTube et sur le site officiel du film Dune, la bande-annonce complète étant lancée lors du Global IMAX Fan Event."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt pour Dune Part Three ?",
+    "description": "Suivez Dune Part Three pour obtenir les dernières sorties de bandes-annonces, les révélations de la distribution, les actualités sur la sortie IMAX et les alertes billetterie alors que la saga de Denis Villeneuve s'achève.",
+    "joinCommunity": "Suivre sur X",
+    "joinGame": "Recevoir les alertes billetterie"
+  },
+  "footer": {
+    "title": "Wiki Dune Part 3",
+    "description": "Votre guide complet de fan pour Dune Part Three — date de sortie, bande-annonce officielle, distribution complète, histoire, détails IMAX, personnages et liens avec Dune Messiah.",
+    "resources": "Ressources",
+    "community": "Communauté",
+    "legal": "Mentions légales",
+    "discord": "Instagram",
+    "twitter": "X / Twitter",
+    "steamCommunity": "Reddit",
+    "steamStore": "TikTok",
+    "about": "À propos",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Wiki Dune Part 3. Non affilié à Warner Bros. Pictures ou Legendary.",
+    "disclaimer": "Site de ressources non officiel créé par des fans."
+  },
+  "pages": {
+    "release": {
+      "title": "Sortie de Dune Part 3",
+      "description": "Guides des dates de sortie de Dune Part 3 couvrant la première en salles, les sorties internationales, l'IMAX et les calendriers de sortie régionaux.",
+      "metaTitle": "Sortie de Dune Part 3 - Date en salles, IMAX et sorties régionales",
+      "metaDescription": "Suivez la date de sortie de Dune Part 3, la première en salles, les sorties IMAX et les calendriers de sortie régionaux pour le 18 décembre 2026.",
+      "categoryLabel": "SORTIE DE DUNE PART 3",
+      "whatIs": "Qu'est-ce que la sortie de Dune Part 3 ?",
+      "whatIsDescription": "La sortie de Dune Part 3 couvre la première en salles confirmée le 18 décembre 2026, les sorties au format IMAX et premium, ainsi que les dates de sortie régionales aux États-Unis, au Royaume-Uni, en Inde, aux Philippines et plus encore.",
+      "why": "Pourquoi suivre la sortie de Dune Part 3 ?",
+      "whySteps": {
+        "step1Title": "Confirmer la date de la première",
+        "step1Description": "Bloquez la date de sortie en salles du 18 décembre 2026 annoncée par Warner Bros.",
+        "step2Title": "Choisir un format Premium",
+        "step2Description": "Comparez les projections IMAX et IMAX 70mm pour obtenir la meilleure présentation.",
+        "step3Title": "Consulter les sorties régionales",
+        "step3Description": "Retrouvez les fenêtres de sortie aux États-Unis, au Royaume-Uni, en Inde et aux Philippines dès qu'elles sont annoncées."
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les guides de sortie"
+    },
+    "trailer": {
+      "title": "Bande-annonce de Dune Part 3",
+      "description": "Guides de la bande-annonce de Dune Part 3, couvrant le teaser officiel, la bande-annonce complète, l'analyse de la bande-annonce, les réactions et les sorties sur YouTube.",
+      "metaTitle": "Bande-annonce de Dune Part 3 - Teaser officiel, bande-annonce complète et analyse",
+      "metaDescription": "Regardez le teaser officiel et la bande-annonce complète de Dune Part 3, découvrez les analyses et réactions, et retrouvez chaque sortie officielle sur YouTube.",
+      "categoryLabel": "BANDE-ANNONCE DE DUNE PART 3",
+      "whatIs": "Qu'est-ce que la bande-annonce de Dune Part 3 ?",
+      "whatIsDescription": "La collection de bandes-annonces de Dune Part 3 comprend le teaser officiel, la bande-annonce complète, des analyses image par image, les réactions des fans et les dates de sortie sur YouTube pour chaque vidéo officielle.",
+      "why": "Pourquoi regarder la bande-annonce de Dune Part 3 ?",
+      "whySteps": {
+        "step1Title": "Découvrez le teaser officiel",
+        "step1Description": "Regardez le premier teaser qui a posé les bases du règne de Paul et le ton de Dune Messiah.",
+        "step2Title": "Regardez la bande-annonce complète",
+        "step2Description": "Découvrez la bande-annonce complète dévoilée lors du Global IMAX Fan Event.",
+        "step3Title": "Plongez dans l'analyse",
+        "step3Description": "Lisez des analyses plan par plan des détails cachés et des révélations."
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les guides de bandes-annonces"
+    },
+    "cast": {
+      "title": "Distribution de Dune Part 3",
+      "description": "Guides de la distribution de Dune Part 3, couvrant Timothée Chalamet, Zendaya, Jason Momoa, Robert Pattinson, Anya Taylor-Joy et l'ensemble de la distribution.",
+      "metaTitle": "Distribution de Dune Part 3 - Acteurs et stars de retour",
+      "metaDescription": "Rencontrez la distribution de Dune Part 3, avec notamment Timothée Chalamet, Zendaya, Jason Momoa, Robert Pattinson, Anya Taylor-Joy et l'ensemble des acteurs de retour.",
+      "categoryLabel": "DISTRIBUTION DE DUNE PART 3",
+      "whatIs": "Qui fait partie de la distribution de Dune Part 3 ?",
+      "whatIsDescription": "La distribution de Dune Part 3 comprend l'ensemble des acteurs, menés par Timothée Chalamet et Zendaya, avec des stars de retour comme Jason Momoa, Florence Pugh et Javier Bardem, ainsi que de nouveaux venus menés par Robert Pattinson dans le rôle de Scytale et Anya Taylor-Joy dans celui d'Alia.",
+      "why": "Pourquoi s'intéresser à la distribution de Dune Part 3 ?",
+      "whySteps": {
+        "step1Title": "Suivez les acteurs principaux de retour",
+        "step1Description": "Retrouvez à l'écran Timothée Chalamet, Zendaya et les alliés survivants des Atreides.",
+        "step2Title": "Rencontrez les nouvelles stars",
+        "step2Description": "Faites connaissance avec le Scytale de Robert Pattinson et l'Alia d'Anya Taylor-Joy.",
+        "step3Title": "Associez les acteurs aux rôles",
+        "step3Description": "Associez chaque acteur à son personnage dans l'histoire de Dune Messiah."
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les guides de la distribution"
+    },
+    "story": {
+      "title": "L'histoire de Dune Part 3",
+      "description": "Guides sur l'histoire de Dune Part 3 couvrant l'adaptation de Dune Messiah, le règne de Paul, l'intrigue, le synopsis, la fin et le roman Dune Messiah.",
+      "metaTitle": "L'histoire de Dune Part 3 - Intrigue, synopsis et fin de Dune Messiah",
+      "metaDescription": "Explorez l'histoire de Dune Part 3, l'adaptation de Dune Messiah, le règne de Paul Atreides en tant qu'empereur, l'intrigue, le synopsis, la fin et le roman d'origine.",
+      "categoryLabel": "L'HISTOIRE DE DUNE PART 3",
+      "whatIs": "Quelle est l'histoire de Dune Part 3 ?",
+      "whatIsDescription": "L'histoire de Dune Part 3 adapte Dune Messiah de Frank Herbert, suivant Paul Atreides en tant qu'empereur, la conspiration contre son règne et le coût du pouvoir qu'il a revendiqué à la fin de Dune : Deuxième Partie.",
+      "why": "Pourquoi suivre l'histoire de Dune Part 3 ?",
+      "whySteps": {
+        "step1Title": "Comprendre Dune Messiah",
+        "step1Description": "Découvrez comment Dune Part 3 adapte le deuxième roman Dune de Frank Herbert.",
+        "step2Title": "Suivez le règne de Paul",
+        "step2Description": "Suivez Paul Atreides en tant qu'empereur et le coût de son pouvoir.",
+        "step3Title": "Suivez le conflit",
+        "step3Description": "Voyez comment Chani, la princesse Irulan et Scytale façonnent l'histoire."
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les guides de l'histoire"
+    },
+    "characters": {
+      "title": "Les personnages de Dune Part 3",
+      "description": "Guides des personnages de Dune Part 3 couvrant Paul Atreides, Chani, Scytale, Alia, le Navigateur de la Guilde, Hayt, Bijaz et l'ensemble de la distribution de Dune Messiah.",
+      "metaTitle": "Personnages de Dune Part 3 - Paul, Chani, Scytale et tous les rôles",
+      "metaDescription": "Guide complet des personnages de Dune Part 3 couvrant Paul Atreides, Chani, Scytale, Alia, le Navigateur de la Guilde, Hayt, Bijaz et chaque rôle majeur dans l'histoire de Dune Messiah.",
+      "categoryLabel": "LES PERSONNAGES DE DUNE PART 3",
+      "whatIs": "Qui sont les personnages de Dune Part 3 ?",
+      "whatIsDescription": "Les personnages de Dune Part 3 incluent Paul Atreides, Chani, la princesse Irulan, Lady Jessica, Alia, Scytale, le Navigateur de la Guilde Edric, Hayt et Bijaz, couvrant les figures politiques et conspiratrices qui animent l'histoire de Dune Messiah.",
+      "why": "Pourquoi explorer les personnages de Dune Part 3 ?",
+      "whySteps": {
+        "step1Title": "Connaître les personnages principaux",
+        "step1Description": "Comprenez Paul Atreides, Chani et les figures Atreides de retour.",
+        "step2Title": "Rencontrez les conspirateurs",
+        "step2Description": "Apprenez à connaître Scytale, Edric et Bijaz, ainsi que leur complot contre Paul.",
+        "step3Title": "Suivez l'évolution des personnages",
+        "step3Description": "Suivez comment chaque rôle s'intègre dans le règne de Paul et le conflit de Dune Messiah."
+      },
+      "featured": "À la une et essentiels",
+      "all": "Tous les guides des personnages"
+    }
   }
 }

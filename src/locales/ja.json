@@ -1,9 +1,721 @@
 {
+  "seo": {
+    "home": {
+      "title": "Dune Part Three - 公開日、キャスト、予告編",
+      "description": "Dune Part Three完全ガイドでは、映画ファンのために公開日、公式予告編の最新情報、全キャスト、ストーリー、IMAXの詳細、キャラクター、そしてDune Messiahとの関連性を網羅しています。",
+      "keywords": "Dune Part Three, Dune 3, 公開日, キャスト, 予告編, IMAX, Dune Messiah",
+      "ogTitle": "Dune Part Three - 公開日、キャスト、予告編",
+      "ogDescription": "Dune Part Three完全ガイドでは、映画ファンのために公開日、公式予告編の最新情報、全キャスト、ストーリー、IMAXの詳細、キャラクター、そしてDune Messiahとの関連性を網羅しています。",
+      "twitterTitle": "Dune Part Three - 公開日、キャスト、予告編",
+      "twitterDescription": "Dune Part Three完全ガイド：映画ファンのための公開日、公式予告編、全キャスト、ストーリー、IMAXの詳細、Dune Messiahとの関連性。"
+    }
+  },
   "nav": {
-    "release": "公開",
+    "release": "公開日",
     "trailer": "予告編",
     "cast": "キャスト",
     "story": "ストーリー",
     "characters": "キャラクター"
+  },
+  "common": {
+    "home": "ホーム",
+    "more": "もっと見る",
+    "playNow": "Steamでプレイ",
+    "switchLanguage": "言語を切り替える",
+    "switchTheme": "テーマを切り替える",
+    "lightMode": "ライトモード",
+    "darkMode": "ダークモード",
+    "notFound": "ページが見つかりません",
+    "notFoundDescription": "お探しのページは存在しません。",
+    "backToHome": "ホームに戻る",
+    "relatedArticles": "関連記事",
+    "readMore": "続きを読む",
+    "articlesComingSoon": "記事は近日公開予定"
+  },
+  "hero": {
+    "badge": "壮大なSF映画の完結編",
+    "title": "Dune Part 3 Wiki",
+    "description": "Dune Part Threeの公開日、公式予告編、キャスト、ストーリー、IMAXの詳細、キャラクター、Dune Messiahとの関連性を、一つの分かりやすい映画ガイドでチェックしましょう。",
+    "getFreeCodesCTA": "予告編を見る",
+    "playOnSteamCTA": "チケット販売通知を受け取る",
+    "stats": {
+      "stat1": {
+        "value": "2026年12月18日",
+        "label": "劇場公開"
+      },
+      "stat2": {
+        "value": "IMAX",
+        "label": "プレミアムフォーマット"
+      },
+      "stat3": {
+        "value": "Dune Messiah",
+        "label": "原作小説"
+      },
+      "stat4": {
+        "value": "4100万+",
+        "label": "特報再生回数"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "映画『Dune Part 3』特集",
+    "description": "フランク・ハーバートの『Dune Messiah』を原作とする、ドゥニ・ヴィルヌーヴ監督によるDune三部作の壮大な完結編は、2026年12月18日に劇場およびIMAXで公開されます。"
+  },
+  "tools": {
+    "title": "デューン PART3",
+    "titleHighlight": "ガイド",
+    "subtitle": "『デューン PART3』について知っておくべきことすべて — 公開日、予告編、キャスト、ストーリー、IMAX、鑑賞順。",
+    "cards": [
+      {
+        "icon": "Clock",
+        "title": "『デューン PART3』公開日",
+        "description": "劇場公開日、上映館、公式アップデート情報まとめ"
+      },
+      {
+        "icon": "Eye",
+        "title": "『デューン PART3』予告編",
+        "description": "公式特報、本予告、IMAXイベント映像"
+      },
+      {
+        "icon": "Users",
+        "title": "『デューン PART3』キャスト",
+        "description": "続投キャスト、新キャスト、決定した登場人物の役割"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "『デューン PART3』あらすじ",
+        "description": "ネタバレ控えめのストーリーガイドと『デューン 砂の救世主』とのつながり"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "『デューン PART3』ポールとチャニ",
+        "description": "『PART2』の後に生じる二人の関係の対立"
+      },
+      {
+        "icon": "Star",
+        "title": "『デューン PART3』IMAXチケット",
+        "description": "IMAX、70mm、上映時間、チケット購入先"
+      },
+      {
+        "icon": "Hammer",
+        "title": "『デューン PART3』製作",
+        "description": "監督、脚本家、スタッフ、撮影スケジュール"
+      },
+      {
+        "icon": "ArrowRight",
+        "title": "『デューン PART3』鑑賞順",
+        "description": "『PART3』公開前におさらいしておくべき鑑賞順"
+      }
+    ]
+  },
+  "modules": {
+    "dunePart3ReleaseDate": {
+      "title": "『デューン PART3』公開日と上映館",
+      "displayType": "表",
+      "intro": "確定した公開日、劇場公開状況、制作スタジオ情報、チケットやキャンペーンの最新情報を追うための方法など、『デューン PART3』の主要な公開情報。",
+      "items": [
+        {
+          "label": "劇場公開日",
+          "value": "2026年12月18日",
+          "detail": "ワーナー・ブラザースは本作の劇場公開日を2026年12月18日と記載しています。"
+        },
+        {
+          "label": "公開形式",
+          "value": "劇場公開のみ",
+          "detail": "映画の公式サイトでは、『デューン PART3』を劇場限定公開作品としてプロモーションしています。"
+        },
+        {
+          "label": "配給会社",
+          "value": "ワーナー・ブラザース",
+          "detail": "レジェンダリーは『デューン PART3』の配給会社としてワーナー・ブラザースを記載しています。"
+        },
+        {
+          "label": "スタジオ",
+          "value": "レジェンダリー・ピクチャーズとワーナー・ブラザース",
+          "detail": "公式キャンペーンは、レジェンダリーとワーナー・ブラザース・エンターテイメントがお届けします。"
+        },
+        {
+          "label": "監督",
+          "value": "ドゥニ・ヴィルヌーヴ",
+          "detail": "ヴィルヌーヴが再び監督を務め、彼の『デューン』三部作の3作目を手がけます。"
+        },
+        {
+          "label": "脚本",
+          "value": "ドゥニ・ヴィルヌーヴ、ブライアン・K・ヴォーン",
+          "detail": "公式サイトでは、ヴィルヌーヴとブライアン・K・ヴォーンが脚本家として記載されています。"
+        },
+        {
+          "label": "原作",
+          "value": "フランク・ハーバート著『デューン 砂漠の救世主』",
+          "detail": "本作はフランク・ハーバートによる『デューン』の小説第2作『デューン 砂漠の救世主』を原作としています。"
+        },
+        {
+          "label": "公式最新情報ハブ",
+          "value": "DuneMovie.com",
+          "detail": "公式サイトでは、予告編の視聴、デューン・インサイダーへの登録、公式SNSへのアクセスが可能です。"
+        }
+      ]
+    },
+    "dunePart3Trailer": {
+      "title": "『デューン PART3』予告編＆公式映像",
+      "displayType": "動画カード",
+      "intro": "『デューン PART3』の主な公式映像コンテンツ。ファンによるファンメイド動画やコンセプト予告編に惑わされることなく、視聴者が最新の予告編、先行特報、イベント映像を素早く見つけることができます。",
+      "items": [
+        {
+          "title": "『デューン PART3』公式予告編",
+          "type": "公式予告編",
+          "url": "https://www.youtube.com/watch?v=NdvqHc56lE0",
+          "releaseWindow": "2026年7月",
+          "focus": "最新の予告編では、権力を握った後のポール・アトレイデス、彼に対峙するチャニ、ダンカン・アイダホの帰還、そしてロバート・パティンソン演じるサイテイルに焦点を当てています。"
+        },
+        {
+          "title": "『デューン PART3』公式特報",
+          "type": "公式特報",
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY",
+          "releaseWindow": "2026年3月",
+          "focus": "特報映像では、本作がドゥニ・ヴィルヌーヴ監督による三部作の壮大な完結編であることを紹介し、12月18日の劇場公開へと視聴者を導きます。"
+        },
+        {
+          "title": "グローバルIMAXファンイベント",
+          "type": "特別映像上映イベント",
+          "url": "https://www.imax.com/global-imax-fan-event",
+          "releaseWindow": "2026年7月8日",
+          "focus": "IMAXイベントでは、限定の予告編先行公開、『デューン PART3』の特別映像、そしてドゥニ・ヴィルヌーヴ監督とのライブQ&Aが行われました。"
+        },
+        {
+          "title": "映画『デューン』公式動画ハブ",
+          "type": "公式サイト 動画セクション",
+          "url": "https://www.dunemovie.com/",
+          "releaseWindow": "随時更新",
+          "focus": "公式サイトでは、予告編キャンペーン、デューン・インサイダーへの登録、SNSの最新情報へのリンクが1か所にまとめられています。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "DuneMovie.com",
+          "url": "https://www.dunemovie.com/"
+        },
+        {
+          "label": "YouTube特報",
+          "url": "https://www.youtube.com/watch?v=3_9vCamtuPY"
+        },
+        {
+          "label": "YouTube予告編",
+          "url": "https://www.youtube.com/watch?v=NdvqHc56lE0"
+        },
+        {
+          "label": "IMAXファンイベント",
+          "url": "https://www.imax.com/global-imax-fan-event"
+        }
+      ]
+    },
+    "dunePart3Cast": {
+      "title": "Dune Part 3 キャストと登場人物",
+      "displayType": "カードリスト",
+      "intro": "『Dune: Part Three』の前に知っておきたい主要キャストと登場人物。続投する主役たち、主要な政治的勢力、そして『Dune Messiah』の物語から加わる新キャラクターを紹介。",
+      "items": [
+        {
+          "actor": "Timothée Chalamet",
+          "character": "Paul Atreides",
+          "roleSummary": "既知の宇宙の皇帝となったPaulは、物語の中心人物として帰還する。"
+        },
+        {
+          "actor": "Zendaya",
+          "character": "Chani",
+          "roleSummary": "Fremenの戦士でありPaulの元恋人であるChaniが再登場。予告編ではPaulと直接的な感情の対立を見せている。"
+        },
+        {
+          "actor": "Jason Momoa",
+          "character": "Duncan Idaho",
+          "roleSummary": "第1作の『Dune』で命を落としたにもかかわらず、Duncan Idahoが第3作で再登場する。これは『Dune Messiah』の読者にとって最大の見どころの一つとなっている。"
+        },
+        {
+          "actor": "Florence Pugh",
+          "character": "Princess Irulan",
+          "roleSummary": "退位させられた皇帝Shaddam IVの娘であり、Paulの妻となったPrincess Irulanが再登場する。"
+        },
+        {
+          "actor": "Rebecca Ferguson",
+          "character": "Lady Jessica",
+          "roleSummary": "Paulの母であり、Atreides家における主要なBene Gesseritの一人であるLady Jessicaが再登場する。"
+        },
+        {
+          "actor": "Anya Taylor-Joy",
+          "character": "Alia Atreides",
+          "roleSummary": "『Dune: Part Two』でのAnya Taylor-Joyのカメオ出演を経て、Paulの妹としてAlia Atreidesが登場する。"
+        },
+        {
+          "actor": "Robert Pattinson",
+          "character": "Scytale",
+          "roleSummary": "Paulの支配に対する陰謀を企てる白髪の敵対者として、Scytaleが物語に加わる。"
+        },
+        {
+          "actor": "Javier Bardem",
+          "character": "Stilgar",
+          "roleSummary": "Paul'sの台頭とFremenの宗教運動に関わる重要なFremenのリーダーとして、Stilgarが再登場する。"
+        },
+        {
+          "actor": "Josh Brolin",
+          "character": "Gurney Halleck",
+          "roleSummary": "前作までの作品から生き残った重要なAtreides家の味方の一人として、Gurney Halleckが再登場する。"
+        },
+        {
+          "actor": "Nakoa-Wolf Momoa",
+          "character": "Leto II",
+          "roleSummary": "Leto IIは、Paul AtreidesとChaniの息子として紹介される。"
+        },
+        {
+          "actor": "Ida Brooke",
+          "character": "Ghanima",
+          "roleSummary": "ガニマは、レト二世の双子の妹であり、ポールとチャニの娘として登場します。"
+        },
+        {
+          "actor": "イザック・ド・バンコレ",
+          "character": "ファロック",
+          "roleSummary": "ファロックは、拡張された『Dune Messiah』のストーリーラインにおいて、フレメンに関わりのあるキャラクターとして本作に加わります。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "DuneMovie.com",
+          "url": "https://www.dunemovie.com/"
+        },
+        {
+          "label": "People",
+          "url": "https://people.com/timothee-chalamet-zendaya-robert-pattinson-wow-in-dune-part-three-trailer-11814971"
+        },
+        {
+          "label": "Space.com",
+          "url": "https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-dune-messiah"
+        }
+      ]
+    },
+    "dunePart3Plot": {
+      "title": "『Dune Part 3』のあらすじと『Dune Messiah』のストーリー",
+      "displayType": "アコーディオン",
+      "intro": "鑑賞前に基本を押さえたい視聴者のために、本作の公式な設定と原作小説『Dune Messiah』のより広い文脈を区別しながら、『Dune: Part Three』の根底にある核心的な前提を解説する、ネタバレを抑えたストーリーガイド。",
+      "items": [
+        {
+          "question": "『Dune Part 3』はどの小説に基づいていますか？",
+          "answer": "『Dune: Part Three』は、フランク・ハーバートによる『デューン』小説シリーズの第2作『Dune Messiah』に基づいています。映画公式サイトは、本作をドゥニ・ヴィルヌーヴ監督による三部作の壮大な完結編と表現しています。",
+          "spoilerLevel": "低"
+        },
+        {
+          "question": "『Dune Part 3』のストーリーはどこから始まりますか？",
+          "answer": "ストーリーは『Dune: Part Two』の出来事の後のポール・アトレイデスを追っており、ポールが皇帝として君臨し、自身の選択、権力、そして彼の名に紐づく戦争がもたらす結果に直面する姿を描いています。",
+          "spoilerLevel": "低"
+        },
+        {
+          "question": "『Dune Part 3』におけるポールの主な葛藤は何ですか？",
+          "answer": "ポールはもはや、単に頭角を現しつつあるヒーローではありません。ストーリーは、彼の支配の代償、彼の周囲で起こる宗教的運動、政治的敵対者、そして彼がコントロールしようと苦闘する未来に焦点当てています。",
+          "spoilerLevel": "低"
+        },
+        {
+          "question": "チャニとイルーラン皇女は『Dune Part 3』にどのように関わってきますか？",
+          "answer": "チャニは引き続きポールのストーリーにおいて感情的な中心であり、一方でイルーラン皇女は、ポールとの結婚や没落した旧皇帝家とのつながりを通じて政治的緊張感をもたらします。",
+          "spoilerLevel": "低"
+        },
+        {
+          "question": "『Dune Part 3』におけるスカイテイルとは誰ですか？",
+          "answer": "スカイテイルは、ロバート・パティンソン演じる新たな悪役として登場します。予告編や報道では、彼をポールの支配に対する脅威の一部として位置づけています。",
+          "spoilerLevel": "中"
+        },
+        {
+          "question": "なぜ『Dune Messiah』が『Dune Part 3』にとって重要なのでしょうか？",
+          "answer": "『Dune Messiah』は、ムアディブであり既知宇宙の皇帝であるポールのストーリーを引き継いでいます。原作小説は、権力、崇拝、陰謀、そしてポールを英雄的な救世主として扱うことの危険性を中心に描いています。",
+          "spoilerLevel": "中"
+        }
+      ],
+      "sources": [
+        {
+          "label": "DuneMovie.com",
+          "url": "https://www.dunemovie.com/"
+        },
+        {
+          "label": "ペンギン・ランダムハウス",
+          "url": "https://www.penguinrandomhouse.com/books/342568/dune-messiah-deluxe-hardcover-edition-by-frank-herbert/"
+        },
+        {
+          "label": "Space.com",
+          "url": "https://www.space.com/entertainment/space-movies-shows/everything-we-know-about-dune-messiah"
+        }
+      ]
+    },
+    "dunePart3PaulAndChani": {
+      "title": "『Dune Part 3』ポールとチャニのガイド",
+      "displayType": "ストーリータイムライン",
+      "intro": "『Dune: Part Three』は、ポールの権力掌握から生じた感情的な余波を描き続けます。ポールは今や帝国、予言、戦争、そして家族の重荷を背負っており、一方でチャニは、『Dune: Part Two』の結末で彼が下した決断に対する最も明確な異議申し立て者として立ちはだかります。",
+      "items": [
+        {
+          "label": "『デューン 砂の惑星 PART2』の結末",
+          "title": "ポールは権力を選び、チャニは去る",
+          "description": "『デューン 砂の惑星 PART2』は、ポールがフレメンの運動を掌握し、皇帝に挑み、皇女イルーランとの政略結婚の道を選ぶところで幕を閉じる。チャニは砂漠へと去り、二人の失われた信頼が次作の感情的な起点となる。",
+          "characters": [
+            "ポール・アトレイデス",
+            "チャニ",
+            "皇女イルーラン"
+          ]
+        },
+        {
+          "label": "PART3への布石",
+          "title": "ポールは統治するが、平和は容易ではない",
+          "description": "『Dune: Part Three（原題）』はフランク・ハーバートの小説『砂のメサイア』を原作とし、皇帝としてのポールの治世を描く。物語は、彼の統治がもたらす結末、彼を破滅させようとする人々、そして救世主的な政治指導者となったことへの個人的な代償に焦点を当てる。",
+          "characters": [
+            "ポール・アトレイデス",
+            "レディ・ジェシカ",
+            "スカイテイル"
+          ]
+        },
+        {
+          "label": "予告編の対立",
+          "title": "チャニは破られた約束を巡りポールと対峙する",
+          "description": "公式予告編では、ポールとチャニの口論が物語の中心に据えられている。チャニは自らの名の下に権力を握ったポールを問い詰め、一方でポールは家族を守ることと、自らが招いた暴力的な未来を制御することの間で板挟みになっている。",
+          "characters": [
+            "ポール・アトレイデス",
+            "チャニ"
+          ]
+        },
+        {
+          "label": "家族の危機",
+          "title": "ポールとチャニの未来の家族が物語の一部となる",
+          "description": "現在のキャスト情報によると、次作はポールとチャニの子供たちであるレト2世とガニマに繋がる。ナコア＝ウルフ・モモアがレト2世役、アイダ・ブルックがガニマ役として記載されている。",
+          "characters": [
+            "レト2世",
+            "ガニマ",
+            "ポール・アトレイデス",
+            "チャニ"
+          ]
+        },
+        {
+          "label": "注目のキャスト",
+          "title": "ティモシー・シャラメとゼンデイヤが主要なカップルとして再共演",
+          "description": "ティモシー・シャラメがポール・アトレイデス役、ゼンデイヤがチャニ役で続投する。フローレンス・ピューも皇女イルーラン役で復帰し、ポール、チャニ、イルーランの間の緊張感がPART3の物語の中核を成す。",
+          "characters": [
+            "ティモシー・シャラメ",
+            "ゼンデイヤ",
+            "フローレンス・ピュー"
+          ]
+        }
+      ]
+    },
+    "dunePart3ImaxTickets": {
+      "title": "『Dune: Part Three』IMAXおよび70mm版チケット",
+      "displayType": "表",
+      "intro": "『Dune: Part Three』は重大な劇場イベントとして制作されており、IMAXおよびIMAX 70mmの専用ページは既に公開されている。公式公開日は2026年12月18日で、ワーナー・ブラザースは本作を劇場限定公開作品としている。",
+      "items": [
+        {
+          "format": "劇場公開",
+          "status": "2026年12月18日、劇場公開限定",
+          "bestFor": "公開日を確認する一般観客",
+          "whereToCheck": "ワーナー・ブラザースおよび『Dune』映画公式サイト"
+        },
+        {
+          "format": "IMAX",
+          "status": "公式IMAX映画ページ公開中",
+          "bestFor": "最高のプレミアムスクリーン体験を求めるファン",
+          "whereToCheck": "IMAX映画ページおよび地元のIMAX上映館リスト"
+        },
+        {
+          "format": "IMAX 70mm",
+          "status": "Fandangoは、12月18日公開の『Dune: Part Three - The IMAX 70MM Experience』を掲載しています",
+          "bestFor": "希少なフィルム形式のプレミアム上映を探しているファン",
+          "whereToCheck": "IMAX 70mm発表ページおよびFandangoのIMAX 70mmページ"
+        },
+        {
+          "format": "地元の映画上映時間",
+          "status": "上映時間は劇場や地域によって異なります",
+          "bestFor": "地元の上映スケジュール更新後に近くの上映館を探す",
+          "whereToCheck": "Fandango、IMAX、および地元の劇場のページ"
+        },
+        {
+          "format": "レイティング",
+          "status": "Fandangoは現在、IMAX 70mmのページをNRとして掲載しています",
+          "bestFor": "公開前にチケットページのメタデータを確認するユーザー",
+          "whereToCheck": "Fandangoの映画概要"
+        }
+      ]
+    },
+    "dunePart3Production": {
+      "title": "Dune Part 3の制作と撮影",
+      "displayType": "タイムライン",
+      "intro": "『Dune: Part Three』はDenis Villeneuveが監督を務め、VilleneuveとBrian K. Vaughanが共同で脚本を執筆しています。本作はFrank Herbertの『Dune Messiah』に基づいており、公式サイトではVilleneuveによる三部作の壮大な完結編と位置づけられています。",
+      "items": [
+        {
+          "date": "2025年",
+          "title": "Denis Villeneuveのもとで制作が進行",
+          "description": "第3作目は、『Dune』および『Dune: Part Two』に続き、VilleneuveによるDuneのアダプテーションを継続します。現在の制作報道によると、ブダペストや砂漠での撮影を含む制作活動は2025年に行われる予定です。",
+          "keyPeople": [
+            "Denis Villeneuve"
+          ]
+        },
+        {
+          "date": "2026年3月17日",
+          "title": "公式ティザー予告編が公開",
+          "description": "Warner Bros.とLegendaryは最初のティザー予告編を公開し、Paulの支配、Chaniの役割、そしてよりダークな『Dune Messiah』の方向性を観客にいち早く披露しました。",
+          "keyPeople": [
+            "Timothée Chalamet",
+            "Zendaya",
+            "Denis Villeneuve"
+          ]
+        },
+        {
+          "date": "2026年7月8日",
+          "title": "グローバルIMAXファンイベントにて本予告編が公開",
+          "description": "本予告編はファンイベントのプロモーションとともに公開され、Timothée ChalametやDenis Villeneuveに関連する登壇も行われました。予告編では、アクション、政治的緊張、およびPaulとChaniの葛藤が強調されています。",
+          "keyPeople": [
+            "Timothée Chalamet",
+            "Denis Villeneuve"
+          ]
+        },
+        {
+          "date": "クリエイティブチーム",
+          "title": "続投および新規の主要スタッフ",
+          "description": "Denis Villeneuveが監督を務め、Brian K. Vaughanと共同で脚本を執筆します。音楽はHans Zimmerが続投し、編集はJoe Walker、プロダクションデザインはPatric Vermetteが引き続き担当、撮影はLinus Sandgrenが務めます。",
+          "keyPeople": [
+            "Denis Villeneuve",
+            "Brian K. Vaughan",
+            "Hans Zimmer",
+            "Joe Walker",
+            "Patric Vermette",
+            "Linus Sandgren"
+          ]
+        },
+        {
+          "date": "2026年12月18日",
+          "title": "劇場公開日",
+          "description": "Warner Bros.はDune: Part Threeの劇場公開日を2026年12月18日としています。映画公式サイトでは、12.18に劇場限定公開とプロモーションしています。",
+          "keyPeople": [
+            "Warner Bros.",
+            "Legendary"
+          ]
+        }
+      ]
+    },
+    "dunePart3WatchOrder": {
+      "title": "Dune Part 3の視聴順と振り返り",
+      "displayType": "ステップ・バイ・ステップ",
+      "intro": "Dune: Part Threeに備える最も簡単な方法は、まずDenis Villeneuve監督による2部作、2021年のDuneと2024年のDune: Part Twoを観ることです。Dune: Part Threeはこれらの作品の続きであり、Dune Messiahを原作としています。",
+      "items": [
+        {
+          "step": 1,
+          "title": "Duneを観る",
+          "year": "2021年",
+          "whyItMatters": "本作では、Paul Atreides、House Atreides、Arrakis、Fremen、spice、そしてPaulのこれまでの生活を崩壊させる政治的な罠が紹介されます。",
+          "recapFocus": [
+            "PaulがArrakisに到着",
+            "House Atreidesの没落",
+            "PaulがFremenの間で歩み始める"
+          ]
+        },
+        {
+          "step": 2,
+          "title": "Dune: Part Twoを観る",
+          "year": "2024年",
+          "whyItMatters": "本作は原作小説第1巻の主な映画アークを完結させ、Paulの権力への台頭、Chaniとの関係、Fremenの戦争、そしてPart Threeへとつながる結末を描いています。",
+          "recapFocus": [
+            "PaulがMuad'Dibとなる",
+            "ChaniがPaulへの信頼を失う",
+            "Princess IrulanがPaulの政治的な未来の一部となる"
+          ]
+        },
+        {
+          "step": 3,
+          "title": "最短で追いつくにはDune 2-Film Collectionをご利用ください",
+          "year": "コレクション",
+          "whyItMatters": "Warner Bros.は、Part Threeの前に主要2作品をまとめて観たい視聴者のために、Dune 2-Film Collectionをラインナップしています。",
+          "recapFocus": [
+            "Dune",
+            "Dune: Part Two",
+            "Villeneuve監督映画のメインタイムライン"
+          ]
+        },
+        {
+          "step": 4,
+          "title": "オプション：より広いフランチャイズの文脈を理解するためにDune: Prophecyを観る",
+          "year": "オプション",
+          "whyItMatters": "この前日譚シリーズは、PaulとChaniのPart Threeの物語を理解する上で必須ではありませんが、Bene Gesseritやさらに広いDuneユニバースを深く探索するのに役立ちます。",
+          "recapFocus": [
+            "Bene Gesseritの背景知識",
+            "Duneユニバースの背景",
+            "オプションの伝承"
+          ]
+        },
+        {
+          "step": 5,
+          "title": "その後、Dune: Part Threeを観る",
+          "year": "2026年",
+          "whyItMatters": "Dune: Part Threeは2026年12月18日に公開予定で、Paulの支配と彼が手にした権力のもたらす結末に焦点を当て、Dune Messiahの物語へと続きます。",
+          "recapFocus": [
+            "皇帝としてのPaul",
+            "Chaniとの対立",
+            "Dune Messiahのストーリーライン"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Dune Part 3",
+    "titleHighlight": "FAQ",
+    "subtitle": "『デューン PART3』の公開、キャスト、ストーリー、およびIMAX公開に関するよくある質問。",
+    "questions": [
+      {
+        "question": "『デューン PART3』の公開日はいつですか？",
+        "answer": "『デューン PART3』は2026年12月18日に劇場公開される予定で、ワーナー・ブラザースはこの映画を劇場公開限定としています。"
+      },
+      {
+        "question": "『デューン PART3』はどの小説に基づいていますか？",
+        "answer": "『デューン PART3』はフランク・ハーバートによる『デューン』小説の第2作『デューン 砂漠の救世主』に基づいており、公式サイトではドゥニ・ヴィルヌーヴ監督による三部作の壮大な完結編と説明されています。"
+      },
+      {
+        "question": "『デューン PART3』の監督は誰ですか？",
+        "answer": "ドゥニ・ヴィルヌーヴが再び『デューン PART3』の監督を務め、ブライアン・K・ヴォーンと共同で脚本を執筆し、自身の『デューン』三部作を完結させます。"
+      },
+      {
+        "question": "『デューン PART3』のキャストは誰ですか？",
+        "answer": "『デューン PART3』のキャストには、ティモシー・シャラメ、ゼンデイヤ、ジェイソン・モモア、フローレンス・ピュー、レベッカ・ファーガソン、アニャ・テイラー＝ジョイ、ハビエル・バルデム、ジョシュ・ブローリン、そしてスカイテイル役のロバート・パティンソンが含まれます。"
+      },
+      {
+        "question": "『デューン PART3』はIMAXで公開されますか？",
+        "answer": "はい。『デューン PART3』は一大シアターイベントとして制作されており、12月18日の公開に先駆けて、IMAXおよびFandangoのサイト上にはすでにIMAXおよびIMAX 70mmのページが開設されています。"
+      },
+      {
+        "question": "『デューン PART3』を観る前に、『デューン 砂の惑星』と『デューン 砂の惑星 PART2』を観る必要がありますか？",
+        "answer": "はい。第3作は『デューン 砂漠の救世主』を原作とし、ポール・アトレイデスが権力を握った後の物語を描いているため、『デューン PART3』を観る前に『DUNE/デューン 砂の惑星』（2021年）と『デューン 砂の惑星 PART2』（2024年）を鑑賞してください。"
+      },
+      {
+        "question": "『デューン PART3』でスカイテイルを演じるのは誰ですか？",
+        "answer": "ロバート・パティンソンが『デューン PART3』にスカイテイル役で出演します。彼は『デューン 砂漠の救世主』のストーリーにおける新たな敵対者であり、ポールの支配に対する陰謀を企てます。"
+      },
+      {
+        "question": "『デューン PART3』の予告編はどこで観られますか？",
+        "answer": "『デューン PART3』の公式ティザー映像と本予告編はYouTubeおよび映画公式サイトで公開されており、本予告編は「グローバルIMAXファンイベント」にて初公開されます。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "『デューン PART3』への準備はいいですか？",
+    "description": "ドゥニ・ヴィルヌーヴ監督によるサーガが完結する『デューン PART3』をフォローして、最新の予告編公開、キャスト情報、IMAX公開ニュース、チケット販売開始のアラートを受け取りましょう。",
+    "joinCommunity": "Xでフォローする",
+    "joinGame": "チケットアラートを受け取る"
+  },
+  "footer": {
+    "title": "デューン PART3 Wiki",
+    "description": "『デューン PART3』の完全ファンガイド — 公開日、公式予告編、全キャスト、ストーリー、IMAXの詳細、キャラクター、そして『デューン 砂漠の救世主』とのつながり。",
+    "resources": "リソース",
+    "community": "コミュニティ",
+    "legal": "リーガル",
+    "discord": "Instagram",
+    "twitter": "X / Twitter",
+    "steamCommunity": "Reddit",
+    "steamStore": "TikTok",
+    "about": "このサイトについて",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "copyrightNotice": "著作権",
+    "copyright": "© 2026 Dune Part 3 Wiki. ワーナー・ブラザース・ピクチャーズおよびレジェンダリーとは提携していません。",
+    "disclaimer": "非公式のファン作成リソースサイト。"
+  },
+  "pages": {
+    "release": {
+      "title": "『デューン PART3』の公開",
+      "description": "劇場プレミア、海外公開、IMAX、地域別の公開スケジュールを網羅した『デューン PART3』公開日ガイド。",
+      "metaTitle": "『デューン PART3』公開 - 劇場公開日、IMAX、地域別公開",
+      "metaDescription": "2026年12月18日の『デューン PART3』の公開日、劇場プレミア、IMAX公開、地域別の公開スケジュールを追跡します。",
+      "categoryLabel": "『DUNE/デューン PART3』公開情報",
+      "whatIs": "『DUNE/デューン PART3』の公開日はいつ？",
+      "whatIsDescription": "『DUNE/デューン PART3』の公開情報では、2026年12月18日に決定した劇場公開日をはじめ、IMAXやプレミアムラージフォーマットでの上映、さらにアメリカ、イギリス、インド、フィリピンなど各国の公開予定を網羅しています。",
+      "why": "なぜ『DUNE/デューン PART3』の公開情報をチェックすべきなのか？",
+      "whySteps": {
+        "step1Title": "公開日を確認",
+        "step1Description": "ワーナー・ブラザースが発表した2026年12月18日の劇場公開日をチェック。",
+        "step2Title": "プレミアムフォーマットを選択",
+        "step2Description": "最高の映像体験のために、IMAXやIMAX 70mm上映を比較。",
+        "step3Title": "各国の公開日を確認",
+        "step3Description": "アメリカ、イギリス、インド、フィリピンなどの公開時期を順次確認。"
+      },
+      "featured": "注目のコンテンツ",
+      "all": "すべての公開ガイド"
+    },
+    "trailer": {
+      "title": "『DUNE/デューン PART3』予告編",
+      "description": "公式特報、本予告、予告編の解説、リアクション、YouTube公開情報などを網羅した『DUNE/デューン PART3』予告編ガイド。",
+      "metaTitle": "『DUNE/デューン PART3』予告編 - 公式特報、本予告＆解説",
+      "metaDescription": "『DUNE/デューン PART3』の公式特報と本予告を視聴し、予告編の解説やリアクションを読み、すべての公式YouTube動画をチェック。",
+      "categoryLabel": "『DUNE/デューン PART3』予告編",
+      "whatIs": "『DUNE/デューン PART3』の予告編とは？",
+      "whatIsDescription": "『DUNE/デューン PART3』予告編コレクションには、公式特報、本予告、フレーム単位の徹底解説、ファンのリアクション、そして各公式動画のYouTube公開日が含まれます。",
+      "why": "なぜ『DUNE/デューン PART3』の予告編を見るべきなのか？",
+      "whySteps": {
+        "step1Title": "公式特報をチェック",
+        "step1Description": "ポールの統治と『Dune Messiah』の世界観を提示した最初の特報を視聴。",
+        "step2Title": "本予告を視聴",
+        "step2Description": "「Global IMAX Fan Event」で公開された本予告をチェック。",
+        "step3Title": "徹底解説を読み解く",
+        "step3Description": "隠された詳細や新事実をシーンごとに解説。"
+      },
+      "featured": "注目のコンテンツ",
+      "all": "すべての予告編ガイド"
+    },
+    "cast": {
+      "title": "『DUNE/デューン PART3』キャスト",
+      "description": "ティモシー・シャラメ、ゼンデイヤ、ジェイソン・モモア、ロバート・パティンソン、アニャ・テイラー＝ジョイ、そして全キャスト陣を網羅した『DUNE/デューン PART3』キャストガイド。",
+      "metaTitle": "『DUNE/デューン PART3』キャスト - 出演俳優＆続投スター",
+      "metaDescription": "ティモシー・シャラメ、ゼンデイヤ、ジェイソン・モモア、ロバート・パティンソン、アニャ・テイラー＝ジョイ、そして続投する豪華キャスト陣をご紹介。",
+      "categoryLabel": "『DUNE/デューン PART3』キャスト",
+      "whatIs": "『DUNE/デューン PART3』のキャストは？",
+      "whatIsDescription": "『DUNE/デューン PART3』のキャストは、主演のティモシー・シャラメとゼンデイヤを筆頭に、ジェイソン・モモア、フローレンス・ピュー、ハビエル・バルデムら続投組、さらにサイテイル役のロバート・パティンソンやアリア役のアニャ・テイラー＝ジョイら新キャストが集結しています。",
+      "why": "なぜ『DUNE/デューン PART3』のキャストを知るべきなのか？",
+      "whySteps": {
+        "step1Title": "続投する主演陣に注目",
+        "step1Description": "ティモシー・シャラメ、ゼンデイヤ、そして生き残ったアトレイデス家の仲間たちがスクリーンに帰ってくる。",
+        "step2Title": "新キャストの紹介",
+        "step2Description": "ロバート・パティンソン演じるサイテイルと、アニャ・テイラー＝ジョイ演じるアリアに注目。",
+        "step3Title": "俳優と配役をマッチングする",
+        "step3Description": "各俳優を『Dune Messiah』のストーリーにおけるキャラクターと紐付けます。"
+      },
+      "featured": "特集＆必須情報",
+      "all": "キャストガイド一覧"
+    },
+    "story": {
+      "title": "Dune Part 3 ストーリー",
+      "description": "『Dune Messiah』の映画化、ポールの統治、プロット、あらすじ、結末、および原作小説『Dune Messiah』を網羅した『Dune Part 3』のストーリーガイド。",
+      "metaTitle": "Dune Part 3 ストーリー - Dune Messiahのプロット、あらすじ、結末",
+      "metaDescription": "『Dune Part 3』のストーリー、『Dune Messiah』の映画化、皇帝としてのポール・アトレイデスの統治、プロット、あらすじ、結末、そして原作小説について探求しましょう。",
+      "categoryLabel": "DUNE PART 3 ストーリー",
+      "whatIs": "『Dune Part 3』のストーリーとは？",
+      "whatIsDescription": "『Dune Part 3』のストーリーはフランク・ハーバートの『Dune Messiah』を原作とし、皇帝となったポール・アトレイデス、彼の統治に対する陰謀、そして『Dune: Part Two』の結末で手に入れた権力の代償を描いています。",
+      "why": "なぜ『Dune Part 3』のストーリーを追うのか？",
+      "whySteps": {
+        "step1Title": "『Dune Messiah』を理解する",
+        "step1Description": "『Dune Part 3』がフランク・ハーバートの小説『Dune』第2作をどのように映画化しているかを学びましょう。",
+        "step2Title": "ポールの統治を追う",
+        "step2Description": "皇帝となったポール・アトレイデスと、彼の権力の代償を追いましょう。",
+        "step3Title": "対立の行方を追う",
+        "step3Description": "チャニ、イルーラン皇女、サイテイルがどのように物語を展開させるかを見届けましょう。"
+      },
+      "featured": "特集＆必須情報",
+      "all": "ストーリーガイド一覧"
+    },
+    "characters": {
+      "title": "Dune Part 3 キャラクター",
+      "description": "ポール・アトレイデス、チャニ、サイテイル、アリア、ギルドのナビゲーター、ハイト、ビジャズ、そして『Dune Messiah』の全キャストを網羅した『Dune Part 3』のキャラクターガイド。",
+      "metaTitle": "Dune Part 3 キャラクター - ポール、チャニ、サイテイル＆全配役",
+      "metaDescription": "ポール・アトレイデス、チャニ、サイテイル、アリア、ギルドのナビゲーター、ハイト、ビジャズ、および『Dune Messiah』のストーリーにおけるすべての主要な役柄を網羅した『Dune Part 3』キャラクター完全ガイド。",
+      "categoryLabel": "DUNE PART 3 キャラクター",
+      "whatIs": "『Dune Part 3』のキャラクターとは？",
+      "whatIsDescription": "『Dune Part 3』のキャラクターには、ポール・アトレイデス、チャニ、イルーラン皇女、レディ・ジェシカ、アリア、サイテイル、ギルドのナビゲーター・エドリック、ハイト、ビジャズが含まれ、『Dune Messiah』のストーリーを動かす政治的および陰謀的な人物たちを網羅しています。",
+      "why": "なぜ『Dune Part 3』のキャラクターを探索するのか？",
+      "whySteps": {
+        "step1Title": "主要キャストを知る",
+        "step1Description": "ポール・アトレイデス、チャニ、そして再登場するアトレイデス家の人物たちを理解しましょう。",
+        "step2Title": "陰謀者たちを知る",
+        "step2Description": "サイテイル、エドリック、ビジャズ、および彼らのポールに対する陰謀について知りましょう。",
+        "step3Title": "キャラクターアークを追う",
+        "step3Description": "各役柄がポールの統治や『Dune Messiah』の対立にどのように関わっているかを追いましょう。"
+      },
+      "featured": "特集＆必須情報",
+      "all": "キャラクターガイド一覧"
+    }
   }
 }
